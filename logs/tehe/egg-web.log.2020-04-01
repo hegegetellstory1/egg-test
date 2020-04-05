@@ -1,0 +1,16 @@
+2020-04-01 02:04:48,530 INFO 85374 [egg-logrotator] app logger reload: got log-reload message
+2020-04-01 09:35:17,574 WARN 85374 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-04-01 09:35:18,202 WARN 85374 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-01 11:07:24,170 WARN 85374 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-01 12:17:05,327 WARN 85374 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-01 12:53:49,444 INFO 85374 [-/127.0.0.1/-/82ms SCHEDULE /__schedule?path=/Users/tehe/egg-tehe/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "/var/folders/91/74tz59m119vgpfhd7v32rklc0000gp/T/egg-multipart-tmp/tehe"
+2020-04-01 12:53:49,488 INFO 85374 [-/127.0.0.1/-/144ms SCHEDULE /__schedule?path=/Users/tehe/egg-tehe/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] end
+2020-04-01 14:09:46,760 WARN 85374 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-01 14:44:30,080 WARN 85374 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-01 19:59:34,360 WARN 85374 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-04-01 19:59:34,616 WARN 85374 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-02 06:39:40,280 INFO 85374 [-/127.0.0.1/-/51ms SCHEDULE /__schedule?path=/Users/tehe/egg-tehe/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "/var/folders/91/74tz59m119vgpfhd7v32rklc0000gp/T/egg-multipart-tmp/tehe"
+2020-04-02 06:39:40,329 INFO 85374 [-/127.0.0.1/-/115ms SCHEDULE /__schedule?path=/Users/tehe/egg-tehe/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] end
+2020-04-02 08:28:41,972 INFO 85374 [egg-logrotator] clean all log before 31 days
+2020-04-02 08:28:42,557 INFO 85374 [egg-logrotator] broadcast log-reload
+2020-04-02 08:28:42,559 INFO 85374 [egg-logrotator] rotate files success by DayRotator, files ["/Users/tehe/egg-tehe/logs/tehe/common-error.log -> /Users/tehe/egg-tehe/logs/tehe/common-error.log.2020-04-01","/Users/tehe/egg-tehe/logs/tehe/tehe-web.log -> /Users/tehe/egg-tehe/logs/tehe/tehe-web.log.2020-04-01","/Users/tehe/egg-tehe/logs/tehe/egg-web.log -> /Users/tehe/egg-tehe/logs/tehe/egg-web.log.2020-04-01","/Users/tehe/egg-tehe/logs/tehe/egg-schedule.log -> /Users/tehe/egg-tehe/logs/tehe/egg-schedule.log.2020-04-01","/Users/tehe/egg-tehe/logs/tehe/egg-agent.log -> /Users/tehe/egg-tehe/logs/tehe/egg-agent.log.2020-04-01"]

@@ -1,0 +1,6 @@
+2020-04-05 03:52:42,067 INFO 85265 [Timer] /Users/tehe/egg-tehe/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 2237978ms at 2020-04-05 04:30:00.044
+2020-04-05 03:52:42,085 INFO 85374 [Job#15860299619894541388653249484] /Users/tehe/egg-tehe/node_modules/egg-multipart/app/schedule/clean_tmpdir.js executing by app
+2020-04-05 03:52:42,191 INFO 85374 [Job#15860299619894541388653249484] /Users/tehe/egg-tehe/node_modules/egg-multipart/app/schedule/clean_tmpdir.js execute succeed, used 96ms
+2020-04-05 04:30:00,053 INFO 85265 [Timer] /Users/tehe/egg-tehe/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 86399952ms at 2020-04-06 04:30:00.004
+2020-04-05 04:30:00,053 INFO 85374 [Job#15860321999874563769330886485] /Users/tehe/egg-tehe/node_modules/egg-multipart/app/schedule/clean_tmpdir.js executing by app
+2020-04-05 04:30:00,058 INFO 85374 [Job#15860321999874563769330886485] /Users/tehe/egg-tehe/node_modules/egg-multipart/app/schedule/clean_tmpdir.js execute succeed, used 5ms

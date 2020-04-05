@@ -1,0 +1,12 @@
+2020-04-01 12:53:49,279 INFO 85265 [Timer] /Users/tehe/egg-tehe/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 56170745ms at 2020-04-02 04:30:00.024
+2020-04-01 12:53:49,333 INFO 85374 [Job#15857168292482795094410895681] /Users/tehe/egg-tehe/node_modules/egg-multipart/app/schedule/clean_tmpdir.js executing by app
+2020-04-01 12:53:49,488 INFO 85374 [Job#15857168292482795094410895681] /Users/tehe/egg-tehe/node_modules/egg-multipart/app/schedule/clean_tmpdir.js execute succeed, used 146ms
+2020-04-02 06:39:40,107 INFO 85265 [Timer] /Users/tehe/egg-tehe/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 78619962ms at 2020-04-03 04:30:00.059
+2020-04-02 06:39:40,189 INFO 85374 [Job#15857807799763356802343123372] /Users/tehe/egg-tehe/node_modules/egg-multipart/app/schedule/clean_tmpdir.js executing by app
+2020-04-02 06:39:40,329 INFO 85374 [Job#15857807799763356802343123372] /Users/tehe/egg-tehe/node_modules/egg-multipart/app/schedule/clean_tmpdir.js execute succeed, used 115ms
+2020-04-02 08:28:41,686 INFO 85374 [Job#1585787321625342222987519142] /Users/tehe/egg-tehe/node_modules/egg-logrotator/app/schedule/clean_log.js executing by app
+2020-04-02 08:28:41,973 INFO 85374 [Job#1585787321625342222987519142] /Users/tehe/egg-tehe/node_modules/egg-logrotator/app/schedule/clean_log.js execute succeed, used 284ms
+2020-04-02 08:28:42,533 INFO 85374 [Job#15857873225233422229952786022] /Users/tehe/egg-tehe/node_modules/egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2020-04-02 08:28:42,559 INFO 85374 [Job#15857873225233422229952786022] /Users/tehe/egg-tehe/node_modules/egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 24ms
+2020-04-02 08:28:41,670 INFO 85265 [Timer] /Users/tehe/egg-tehe/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 55878357ms at 2020-04-03 00:00:00.027
+2020-04-02 08:28:42,540 INFO 85265 [Timer] /Users/tehe/egg-tehe/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 55878471ms at 2020-04-03 00:00:01.011

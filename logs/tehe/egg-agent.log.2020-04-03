@@ -1,0 +1,49 @@
+2020-04-03 12:56:03,514 INFO 85265 [egg-logrotator] agent logger reload: got log-reload message
+2020-04-03 21:00:21,601 ERROR 85265 nodejs.ClusterClientNoResponseError: client no response in 1899570ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tehe/egg-tehe/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 85265
+hostname: bogon
+
+2020-04-03 21:41:34,509 ERROR 85265 nodejs.ClusterClientNoResponseError: client no response in 158574ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tehe/egg-tehe/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 85265
+hostname: bogon
+
+2020-04-03 22:54:53,225 ERROR 85265 nodejs.ClusterClientNoResponseError: client no response in 4214315ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tehe/egg-tehe/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 85265
+hostname: bogon
+
+2020-04-04 11:44:20,192 ERROR 85265 nodejs.ClusterClientNoResponseError: client no response in 46146133ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tehe/egg-tehe/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 85265
+hostname: bogon
+
+2020-04-04 13:58:12,813 ERROR 85265 nodejs.ClusterClientNoResponseError: client no response in 5836328ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tehe/egg-tehe/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 85265
+hostname: bogon
+
+2020-04-04 21:12:40,805 ERROR 85265 nodejs.ClusterClientNoResponseError: client no response in 25324293ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/tehe/egg-tehe/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (timers.js:324:15)
+    at processTimers (timers.js:268:5)
+name: "ClusterClientNoResponseError"
+pid: 85265
+hostname: bogon
+

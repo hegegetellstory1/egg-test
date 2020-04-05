@@ -1,0 +1,1789 @@
+2020-03-30 20:03:58,101 INFO 71397 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 20:03:58,163 INFO 71397 [egg-multipart] stream mode enable
+2020-03-30 20:03:58,283 INFO 71397 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 20:03:58,293 INFO 71397 [egg-security] use csrf middleware
+2020-03-30 20:03:58,296 INFO 71397 [egg-security] use methodnoallow middleware
+2020-03-30 20:03:58,301 INFO 71397 [egg-security] use noopen middleware
+2020-03-30 20:03:58,303 INFO 71397 [egg-security] use nosniff middleware
+2020-03-30 20:03:58,304 INFO 71397 [egg-security] use xssProtection middleware
+2020-03-30 20:03:58,305 INFO 71397 [egg-security] use xframe middleware
+2020-03-30 20:03:58,306 INFO 71397 [egg-security] use dta middleware
+2020-03-30 20:03:58,306 INFO 71397 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 20:03:58,327 INFO 71397 [egg:core] dump config after load, 12ms
+2020-03-30 20:03:58,356 INFO 71397 [egg-watcher:application] watcher start success
+2020-03-30 20:03:58,370 INFO 71397 [egg:core] dump config after ready, 9ms
+2020-03-30 20:45:45,912 WARN 71397 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-03-30 20:47:22,599 INFO 72916 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 20:47:22,640 INFO 72916 [egg-multipart] stream mode enable
+2020-03-30 20:47:22,730 INFO 72916 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 20:47:22,734 INFO 72916 [egg-security] use csrf middleware
+2020-03-30 20:47:22,736 INFO 72916 [egg-security] use methodnoallow middleware
+2020-03-30 20:47:22,737 INFO 72916 [egg-security] use noopen middleware
+2020-03-30 20:47:22,738 INFO 72916 [egg-security] use nosniff middleware
+2020-03-30 20:47:22,739 INFO 72916 [egg-security] use xssProtection middleware
+2020-03-30 20:47:22,739 INFO 72916 [egg-security] use xframe middleware
+2020-03-30 20:47:22,740 INFO 72916 [egg-security] use dta middleware
+2020-03-30 20:47:22,740 INFO 72916 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 20:47:22,755 INFO 72916 [egg:core] dump config after load, 8ms
+2020-03-30 20:47:22,785 INFO 72916 [egg-watcher:application] watcher start success
+2020-03-30 20:47:22,799 INFO 72916 [egg:core] dump config after ready, 9ms
+2020-03-30 20:51:13,315 INFO 72978 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 20:51:13,418 INFO 72978 [egg-multipart] stream mode enable
+2020-03-30 20:51:13,587 INFO 72978 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 20:51:13,598 INFO 72978 [egg-security] use csrf middleware
+2020-03-30 20:51:13,600 INFO 72978 [egg-security] use methodnoallow middleware
+2020-03-30 20:51:13,601 INFO 72978 [egg-security] use noopen middleware
+2020-03-30 20:51:13,602 INFO 72978 [egg-security] use nosniff middleware
+2020-03-30 20:51:13,603 INFO 72978 [egg-security] use xssProtection middleware
+2020-03-30 20:51:13,604 INFO 72978 [egg-security] use xframe middleware
+2020-03-30 20:51:13,605 INFO 72978 [egg-security] use dta middleware
+2020-03-30 20:51:13,605 INFO 72978 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 20:51:13,634 INFO 72978 [egg:core] dump config after load, 15ms
+2020-03-30 20:51:13,675 INFO 72978 [egg-watcher:application] watcher start success
+2020-03-30 20:51:13,693 INFO 72978 [egg:core] dump config after ready, 10ms
+2020-03-30 20:52:08,546 INFO 72997 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 20:52:08,634 INFO 72997 [egg-multipart] stream mode enable
+2020-03-30 20:52:08,759 INFO 72997 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 20:52:08,802 INFO 72997 [egg-security] use csrf middleware
+2020-03-30 20:52:08,814 INFO 72997 [egg-security] use methodnoallow middleware
+2020-03-30 20:52:08,815 INFO 72997 [egg-security] use noopen middleware
+2020-03-30 20:52:08,817 INFO 72997 [egg-security] use nosniff middleware
+2020-03-30 20:52:08,818 INFO 72997 [egg-security] use xssProtection middleware
+2020-03-30 20:52:08,819 INFO 72997 [egg-security] use xframe middleware
+2020-03-30 20:52:08,820 INFO 72997 [egg-security] use dta middleware
+2020-03-30 20:52:08,820 INFO 72997 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 20:52:08,846 INFO 72997 [egg:core] dump config after load, 16ms
+2020-03-30 20:52:08,916 INFO 72997 [egg-watcher:application] watcher start success
+2020-03-30 20:52:08,934 INFO 72997 [egg:core] dump config after ready, 12ms
+2020-03-30 20:52:11,853 INFO 73000 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 20:52:11,902 INFO 73000 [egg-multipart] stream mode enable
+2020-03-30 20:52:11,957 INFO 73000 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 20:52:11,961 INFO 73000 [egg-security] use csrf middleware
+2020-03-30 20:52:11,962 INFO 73000 [egg-security] use methodnoallow middleware
+2020-03-30 20:52:11,963 INFO 73000 [egg-security] use noopen middleware
+2020-03-30 20:52:11,966 INFO 73000 [egg-security] use nosniff middleware
+2020-03-30 20:52:11,971 INFO 73000 [egg-security] use xssProtection middleware
+2020-03-30 20:52:11,971 INFO 73000 [egg-security] use xframe middleware
+2020-03-30 20:52:11,972 INFO 73000 [egg-security] use dta middleware
+2020-03-30 20:52:11,972 INFO 73000 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 20:52:11,987 INFO 73000 [egg:core] dump config after load, 9ms
+2020-03-30 20:52:12,023 INFO 73000 [egg-watcher:application] watcher start success
+2020-03-30 20:52:12,036 INFO 73000 [egg:core] dump config after ready, 9ms
+2020-03-30 20:52:52,423 INFO 73008 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 20:52:52,494 INFO 73008 [egg-multipart] stream mode enable
+2020-03-30 20:52:52,600 INFO 73008 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 20:52:52,611 INFO 73008 [egg-security] use csrf middleware
+2020-03-30 20:52:52,612 INFO 73008 [egg-security] use methodnoallow middleware
+2020-03-30 20:52:52,613 INFO 73008 [egg-security] use noopen middleware
+2020-03-30 20:52:52,614 INFO 73008 [egg-security] use nosniff middleware
+2020-03-30 20:52:52,615 INFO 73008 [egg-security] use xssProtection middleware
+2020-03-30 20:52:52,616 INFO 73008 [egg-security] use xframe middleware
+2020-03-30 20:52:52,617 INFO 73008 [egg-security] use dta middleware
+2020-03-30 20:52:52,617 INFO 73008 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 20:52:52,642 INFO 73008 [egg:core] dump config after load, 13ms
+2020-03-30 20:52:52,667 INFO 73008 [egg-watcher:application] watcher start success
+2020-03-30 20:52:52,682 INFO 73008 [egg:core] dump config after ready, 10ms
+2020-03-30 20:53:06,514 INFO 73010 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 20:53:06,556 INFO 73010 [egg-multipart] stream mode enable
+2020-03-30 20:53:06,614 INFO 73010 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 20:53:06,621 INFO 73010 [egg-security] use csrf middleware
+2020-03-30 20:53:06,622 INFO 73010 [egg-security] use methodnoallow middleware
+2020-03-30 20:53:06,623 INFO 73010 [egg-security] use noopen middleware
+2020-03-30 20:53:06,623 INFO 73010 [egg-security] use nosniff middleware
+2020-03-30 20:53:06,624 INFO 73010 [egg-security] use xssProtection middleware
+2020-03-30 20:53:06,624 INFO 73010 [egg-security] use xframe middleware
+2020-03-30 20:53:06,625 INFO 73010 [egg-security] use dta middleware
+2020-03-30 20:53:06,625 INFO 73010 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 20:53:06,640 INFO 73010 [egg:core] dump config after load, 8ms
+2020-03-30 20:53:06,659 INFO 73010 [egg-watcher:application] watcher start success
+2020-03-30 20:53:06,668 INFO 73010 [egg:core] dump config after ready, 6ms
+2020-03-30 20:53:18,841 INFO 73012 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 20:53:18,914 INFO 73012 [egg-multipart] stream mode enable
+2020-03-30 20:53:19,066 INFO 73012 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 20:53:19,076 INFO 73012 [egg-security] use csrf middleware
+2020-03-30 20:53:19,078 INFO 73012 [egg-security] use methodnoallow middleware
+2020-03-30 20:53:19,079 INFO 73012 [egg-security] use noopen middleware
+2020-03-30 20:53:19,080 INFO 73012 [egg-security] use nosniff middleware
+2020-03-30 20:53:19,080 INFO 73012 [egg-security] use xssProtection middleware
+2020-03-30 20:53:19,081 INFO 73012 [egg-security] use xframe middleware
+2020-03-30 20:53:19,082 INFO 73012 [egg-security] use dta middleware
+2020-03-30 20:53:19,082 INFO 73012 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 20:53:19,096 INFO 73012 [egg:core] dump config after load, 7ms
+2020-03-30 20:53:19,115 INFO 73012 [egg-watcher:application] watcher start success
+2020-03-30 20:53:19,133 INFO 73012 [egg:core] dump config after ready, 14ms
+2020-03-30 20:53:52,652 INFO 73021 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 20:53:52,701 INFO 73021 [egg-multipart] stream mode enable
+2020-03-30 20:53:52,809 INFO 73021 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 20:53:52,816 INFO 73021 [egg-security] use csrf middleware
+2020-03-30 20:53:52,824 INFO 73021 [egg-security] use methodnoallow middleware
+2020-03-30 20:53:52,825 INFO 73021 [egg-security] use noopen middleware
+2020-03-30 20:53:52,827 INFO 73021 [egg-security] use nosniff middleware
+2020-03-30 20:53:52,829 INFO 73021 [egg-security] use xssProtection middleware
+2020-03-30 20:53:52,830 INFO 73021 [egg-security] use xframe middleware
+2020-03-30 20:53:52,832 INFO 73021 [egg-security] use dta middleware
+2020-03-30 20:53:52,832 INFO 73021 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 20:53:52,857 INFO 73021 [egg:core] dump config after load, 14ms
+2020-03-30 20:53:52,883 INFO 73021 [egg-watcher:application] watcher start success
+2020-03-30 20:53:52,897 INFO 73021 [egg:core] dump config after ready, 9ms
+2020-03-30 20:54:29,533 INFO 73025 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 20:54:29,585 INFO 73025 [egg-multipart] stream mode enable
+2020-03-30 20:54:29,679 INFO 73025 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 20:54:29,686 INFO 73025 [egg-security] use csrf middleware
+2020-03-30 20:54:29,687 INFO 73025 [egg-security] use methodnoallow middleware
+2020-03-30 20:54:29,689 INFO 73025 [egg-security] use noopen middleware
+2020-03-30 20:54:29,690 INFO 73025 [egg-security] use nosniff middleware
+2020-03-30 20:54:29,691 INFO 73025 [egg-security] use xssProtection middleware
+2020-03-30 20:54:29,692 INFO 73025 [egg-security] use xframe middleware
+2020-03-30 20:54:29,693 INFO 73025 [egg-security] use dta middleware
+2020-03-30 20:54:29,693 INFO 73025 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 20:54:29,709 INFO 73025 [egg:core] dump config after load, 8ms
+2020-03-30 20:54:29,729 INFO 73025 [egg-watcher:application] watcher start success
+2020-03-30 20:54:29,737 INFO 73025 [egg:core] dump config after ready, 5ms
+2020-03-30 20:54:54,837 INFO 73029 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 20:54:54,896 INFO 73029 [egg-multipart] stream mode enable
+2020-03-30 20:54:54,951 INFO 73029 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 20:54:54,955 INFO 73029 [egg-security] use csrf middleware
+2020-03-30 20:54:54,955 INFO 73029 [egg-security] use methodnoallow middleware
+2020-03-30 20:54:54,956 INFO 73029 [egg-security] use noopen middleware
+2020-03-30 20:54:54,957 INFO 73029 [egg-security] use nosniff middleware
+2020-03-30 20:54:54,957 INFO 73029 [egg-security] use xssProtection middleware
+2020-03-30 20:54:54,957 INFO 73029 [egg-security] use xframe middleware
+2020-03-30 20:54:54,958 INFO 73029 [egg-security] use dta middleware
+2020-03-30 20:54:54,958 INFO 73029 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 20:54:54,972 INFO 73029 [egg:core] dump config after load, 9ms
+2020-03-30 20:54:54,999 INFO 73029 [egg-watcher:application] watcher start success
+2020-03-30 20:54:55,013 INFO 73029 [egg:core] dump config after ready, 9ms
+2020-03-30 20:55:25,026 INFO 73033 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 20:55:25,067 INFO 73033 [egg-multipart] stream mode enable
+2020-03-30 20:55:25,121 INFO 73033 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 20:55:25,124 INFO 73033 [egg-security] use csrf middleware
+2020-03-30 20:55:25,125 INFO 73033 [egg-security] use methodnoallow middleware
+2020-03-30 20:55:25,126 INFO 73033 [egg-security] use noopen middleware
+2020-03-30 20:55:25,126 INFO 73033 [egg-security] use nosniff middleware
+2020-03-30 20:55:25,127 INFO 73033 [egg-security] use xssProtection middleware
+2020-03-30 20:55:25,127 INFO 73033 [egg-security] use xframe middleware
+2020-03-30 20:55:25,128 INFO 73033 [egg-security] use dta middleware
+2020-03-30 20:55:25,128 INFO 73033 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 20:55:25,142 INFO 73033 [egg:core] dump config after load, 9ms
+2020-03-30 20:55:25,165 INFO 73033 [egg-watcher:application] watcher start success
+2020-03-30 20:55:25,177 INFO 73033 [egg:core] dump config after ready, 8ms
+2020-03-30 20:57:00,742 INFO 73049 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 20:57:00,802 INFO 73049 [egg-multipart] stream mode enable
+2020-03-30 20:57:00,859 INFO 73049 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 20:57:00,869 INFO 73049 [egg-security] use csrf middleware
+2020-03-30 20:57:00,870 INFO 73049 [egg-security] use methodnoallow middleware
+2020-03-30 20:57:00,870 INFO 73049 [egg-security] use noopen middleware
+2020-03-30 20:57:00,871 INFO 73049 [egg-security] use nosniff middleware
+2020-03-30 20:57:00,871 INFO 73049 [egg-security] use xssProtection middleware
+2020-03-30 20:57:00,872 INFO 73049 [egg-security] use xframe middleware
+2020-03-30 20:57:00,872 INFO 73049 [egg-security] use dta middleware
+2020-03-30 20:57:00,872 INFO 73049 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 20:57:00,887 INFO 73049 [egg:core] dump config after load, 9ms
+2020-03-30 20:57:00,908 INFO 73049 [egg-watcher:application] watcher start success
+2020-03-30 20:57:00,922 INFO 73049 [egg:core] dump config after ready, 10ms
+2020-03-30 21:00:12,824 INFO 73100 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 21:00:12,874 INFO 73100 [egg-multipart] stream mode enable
+2020-03-30 21:00:12,965 INFO 73100 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 21:00:12,973 INFO 73100 [egg-security] use csrf middleware
+2020-03-30 21:00:12,975 INFO 73100 [egg-security] use methodnoallow middleware
+2020-03-30 21:00:12,976 INFO 73100 [egg-security] use noopen middleware
+2020-03-30 21:00:12,976 INFO 73100 [egg-security] use nosniff middleware
+2020-03-30 21:00:12,977 INFO 73100 [egg-security] use xssProtection middleware
+2020-03-30 21:00:12,978 INFO 73100 [egg-security] use xframe middleware
+2020-03-30 21:00:12,979 INFO 73100 [egg-security] use dta middleware
+2020-03-30 21:00:12,979 INFO 73100 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 21:00:13,002 INFO 73100 [egg:core] dump config after load, 12ms
+2020-03-30 21:00:13,026 INFO 73100 [egg-watcher:application] watcher start success
+2020-03-30 21:00:13,039 INFO 73100 [egg:core] dump config after ready, 9ms
+2020-03-30 21:00:30,734 INFO 73107 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 21:00:30,786 INFO 73107 [egg-multipart] stream mode enable
+2020-03-30 21:00:30,869 INFO 73107 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 21:00:30,873 INFO 73107 [egg-security] use csrf middleware
+2020-03-30 21:00:30,874 INFO 73107 [egg-security] use methodnoallow middleware
+2020-03-30 21:00:30,875 INFO 73107 [egg-security] use noopen middleware
+2020-03-30 21:00:30,877 INFO 73107 [egg-security] use nosniff middleware
+2020-03-30 21:00:30,878 INFO 73107 [egg-security] use xssProtection middleware
+2020-03-30 21:00:30,879 INFO 73107 [egg-security] use xframe middleware
+2020-03-30 21:00:30,879 INFO 73107 [egg-security] use dta middleware
+2020-03-30 21:00:30,879 INFO 73107 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 21:00:30,895 INFO 73107 [egg:core] dump config after load, 9ms
+2020-03-30 21:00:30,918 INFO 73107 [egg-watcher:application] watcher start success
+2020-03-30 21:00:30,931 INFO 73107 [egg:core] dump config after ready, 8ms
+2020-03-30 21:01:06,500 INFO 73117 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 21:01:06,558 INFO 73117 [egg-multipart] stream mode enable
+2020-03-30 21:01:06,681 INFO 73117 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 21:01:06,685 INFO 73117 [egg-security] use csrf middleware
+2020-03-30 21:01:06,686 INFO 73117 [egg-security] use methodnoallow middleware
+2020-03-30 21:01:06,687 INFO 73117 [egg-security] use noopen middleware
+2020-03-30 21:01:06,690 INFO 73117 [egg-security] use nosniff middleware
+2020-03-30 21:01:06,691 INFO 73117 [egg-security] use xssProtection middleware
+2020-03-30 21:01:06,692 INFO 73117 [egg-security] use xframe middleware
+2020-03-30 21:01:06,692 INFO 73117 [egg-security] use dta middleware
+2020-03-30 21:01:06,693 INFO 73117 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 21:01:06,714 INFO 73117 [egg:core] dump config after load, 13ms
+2020-03-30 21:01:06,750 INFO 73117 [egg-watcher:application] watcher start success
+2020-03-30 21:01:06,763 INFO 73117 [egg:core] dump config after ready, 8ms
+2020-03-30 21:02:01,922 INFO 73128 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 21:02:01,978 INFO 73128 [egg-multipart] stream mode enable
+2020-03-30 21:02:02,078 INFO 73128 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 21:02:02,082 INFO 73128 [egg-security] use csrf middleware
+2020-03-30 21:02:02,083 INFO 73128 [egg-security] use methodnoallow middleware
+2020-03-30 21:02:02,084 INFO 73128 [egg-security] use noopen middleware
+2020-03-30 21:02:02,086 INFO 73128 [egg-security] use nosniff middleware
+2020-03-30 21:02:02,087 INFO 73128 [egg-security] use xssProtection middleware
+2020-03-30 21:02:02,087 INFO 73128 [egg-security] use xframe middleware
+2020-03-30 21:02:02,088 INFO 73128 [egg-security] use dta middleware
+2020-03-30 21:02:02,088 INFO 73128 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 21:02:02,104 INFO 73128 [egg:core] dump config after load, 7ms
+2020-03-30 21:02:02,122 INFO 73128 [egg-watcher:application] watcher start success
+2020-03-30 21:02:02,131 INFO 73128 [egg:core] dump config after ready, 6ms
+2020-03-30 21:02:13,188 INFO 73130 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 21:02:13,240 INFO 73130 [egg-multipart] stream mode enable
+2020-03-30 21:02:13,362 INFO 73130 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 21:02:13,366 INFO 73130 [egg-security] use csrf middleware
+2020-03-30 21:02:13,371 INFO 73130 [egg-security] use methodnoallow middleware
+2020-03-30 21:02:13,374 INFO 73130 [egg-security] use noopen middleware
+2020-03-30 21:02:13,375 INFO 73130 [egg-security] use nosniff middleware
+2020-03-30 21:02:13,377 INFO 73130 [egg-security] use xssProtection middleware
+2020-03-30 21:02:13,378 INFO 73130 [egg-security] use xframe middleware
+2020-03-30 21:02:13,379 INFO 73130 [egg-security] use dta middleware
+2020-03-30 21:02:13,379 INFO 73130 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 21:02:13,405 INFO 73130 [egg:core] dump config after load, 12ms
+2020-03-30 21:02:13,429 INFO 73130 [egg-watcher:application] watcher start success
+2020-03-30 21:02:13,441 INFO 73130 [egg:core] dump config after ready, 7ms
+2020-03-30 21:02:19,442 INFO 73132 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 21:02:19,487 INFO 73132 [egg-multipart] stream mode enable
+2020-03-30 21:02:19,586 INFO 73132 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 21:02:19,592 INFO 73132 [egg-security] use csrf middleware
+2020-03-30 21:02:19,598 INFO 73132 [egg-security] use methodnoallow middleware
+2020-03-30 21:02:19,599 INFO 73132 [egg-security] use noopen middleware
+2020-03-30 21:02:19,600 INFO 73132 [egg-security] use nosniff middleware
+2020-03-30 21:02:19,601 INFO 73132 [egg-security] use xssProtection middleware
+2020-03-30 21:02:19,601 INFO 73132 [egg-security] use xframe middleware
+2020-03-30 21:02:19,603 INFO 73132 [egg-security] use dta middleware
+2020-03-30 21:02:19,603 INFO 73132 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 21:02:19,620 INFO 73132 [egg:core] dump config after load, 9ms
+2020-03-30 21:02:19,649 INFO 73132 [egg-watcher:application] watcher start success
+2020-03-30 21:02:19,665 INFO 73132 [egg:core] dump config after ready, 10ms
+2020-03-30 21:03:36,204 INFO 73144 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 21:03:36,258 INFO 73144 [egg-multipart] stream mode enable
+2020-03-30 21:03:36,355 INFO 73144 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 21:03:36,359 INFO 73144 [egg-security] use csrf middleware
+2020-03-30 21:03:36,361 INFO 73144 [egg-security] use methodnoallow middleware
+2020-03-30 21:03:36,362 INFO 73144 [egg-security] use noopen middleware
+2020-03-30 21:03:36,363 INFO 73144 [egg-security] use nosniff middleware
+2020-03-30 21:03:36,364 INFO 73144 [egg-security] use xssProtection middleware
+2020-03-30 21:03:36,366 INFO 73144 [egg-security] use xframe middleware
+2020-03-30 21:03:36,367 INFO 73144 [egg-security] use dta middleware
+2020-03-30 21:03:36,367 INFO 73144 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 21:03:36,382 INFO 73144 [egg:core] dump config after load, 6ms
+2020-03-30 21:03:36,401 INFO 73144 [egg-watcher:application] watcher start success
+2020-03-30 21:03:36,411 INFO 73144 [egg:core] dump config after ready, 6ms
+2020-03-30 21:03:57,972 INFO 73149 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 21:03:58,036 INFO 73149 [egg-multipart] stream mode enable
+2020-03-30 21:03:58,090 INFO 73149 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 21:03:58,093 INFO 73149 [egg-security] use csrf middleware
+2020-03-30 21:03:58,093 INFO 73149 [egg-security] use methodnoallow middleware
+2020-03-30 21:03:58,094 INFO 73149 [egg-security] use noopen middleware
+2020-03-30 21:03:58,094 INFO 73149 [egg-security] use nosniff middleware
+2020-03-30 21:03:58,095 INFO 73149 [egg-security] use xssProtection middleware
+2020-03-30 21:03:58,095 INFO 73149 [egg-security] use xframe middleware
+2020-03-30 21:03:58,095 INFO 73149 [egg-security] use dta middleware
+2020-03-30 21:03:58,095 INFO 73149 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 21:03:58,110 INFO 73149 [egg:core] dump config after load, 9ms
+2020-03-30 21:03:58,128 INFO 73149 [egg-watcher:application] watcher start success
+2020-03-30 21:03:58,137 INFO 73149 [egg:core] dump config after ready, 6ms
+2020-03-30 21:05:27,857 INFO 73166 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 21:05:27,969 INFO 73166 [egg-multipart] stream mode enable
+2020-03-30 21:05:28,114 INFO 73166 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 21:05:28,131 INFO 73166 [egg-security] use csrf middleware
+2020-03-30 21:05:28,139 INFO 73166 [egg-security] use methodnoallow middleware
+2020-03-30 21:05:28,140 INFO 73166 [egg-security] use noopen middleware
+2020-03-30 21:05:28,142 INFO 73166 [egg-security] use nosniff middleware
+2020-03-30 21:05:28,143 INFO 73166 [egg-security] use xssProtection middleware
+2020-03-30 21:05:28,143 INFO 73166 [egg-security] use xframe middleware
+2020-03-30 21:05:28,144 INFO 73166 [egg-security] use dta middleware
+2020-03-30 21:05:28,144 INFO 73166 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 21:05:28,167 INFO 73166 [egg:core] dump config after load, 15ms
+2020-03-30 21:05:28,239 INFO 73166 [egg-watcher:application] watcher start success
+2020-03-30 21:05:28,253 INFO 73166 [egg:core] dump config after ready, 9ms
+2020-03-30 21:05:51,164 INFO 73175 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 21:05:51,242 INFO 73175 [egg-multipart] stream mode enable
+2020-03-30 21:05:51,350 INFO 73175 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 21:05:51,361 INFO 73175 [egg-security] use csrf middleware
+2020-03-30 21:05:51,363 INFO 73175 [egg-security] use methodnoallow middleware
+2020-03-30 21:05:51,364 INFO 73175 [egg-security] use noopen middleware
+2020-03-30 21:05:51,366 INFO 73175 [egg-security] use nosniff middleware
+2020-03-30 21:05:51,367 INFO 73175 [egg-security] use xssProtection middleware
+2020-03-30 21:05:51,368 INFO 73175 [egg-security] use xframe middleware
+2020-03-30 21:05:51,370 INFO 73175 [egg-security] use dta middleware
+2020-03-30 21:05:51,370 INFO 73175 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 21:05:51,391 INFO 73175 [egg:core] dump config after load, 11ms
+2020-03-30 21:05:51,416 INFO 73175 [egg-watcher:application] watcher start success
+2020-03-30 21:05:51,431 INFO 73175 [egg:core] dump config after ready, 8ms
+2020-03-30 21:06:43,617 INFO 73186 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 21:06:43,669 INFO 73186 [egg-multipart] stream mode enable
+2020-03-30 21:06:43,832 INFO 73186 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 21:06:43,838 INFO 73186 [egg-security] use csrf middleware
+2020-03-30 21:06:43,840 INFO 73186 [egg-security] use methodnoallow middleware
+2020-03-30 21:06:43,841 INFO 73186 [egg-security] use noopen middleware
+2020-03-30 21:06:43,842 INFO 73186 [egg-security] use nosniff middleware
+2020-03-30 21:06:43,842 INFO 73186 [egg-security] use xssProtection middleware
+2020-03-30 21:06:43,843 INFO 73186 [egg-security] use xframe middleware
+2020-03-30 21:06:43,844 INFO 73186 [egg-security] use dta middleware
+2020-03-30 21:06:43,844 INFO 73186 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 21:06:43,864 INFO 73186 [egg:core] dump config after load, 12ms
+2020-03-30 21:06:43,888 INFO 73186 [egg-watcher:application] watcher start success
+2020-03-30 21:06:43,900 INFO 73186 [egg:core] dump config after ready, 7ms
+2020-03-30 21:14:23,778 INFO 73289 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 21:14:23,833 INFO 73289 [egg-multipart] stream mode enable
+2020-03-30 21:14:23,907 INFO 73289 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 21:14:23,914 INFO 73289 [egg-security] use csrf middleware
+2020-03-30 21:14:23,915 INFO 73289 [egg-security] use methodnoallow middleware
+2020-03-30 21:14:23,915 INFO 73289 [egg-security] use noopen middleware
+2020-03-30 21:14:23,916 INFO 73289 [egg-security] use nosniff middleware
+2020-03-30 21:14:23,916 INFO 73289 [egg-security] use xssProtection middleware
+2020-03-30 21:14:23,917 INFO 73289 [egg-security] use xframe middleware
+2020-03-30 21:14:23,917 INFO 73289 [egg-security] use dta middleware
+2020-03-30 21:14:23,917 INFO 73289 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 21:14:23,933 INFO 73289 [egg:core] dump config after load, 8ms
+2020-03-30 21:14:23,963 INFO 73289 [egg-watcher:application] watcher start success
+2020-03-30 21:14:23,974 INFO 73289 [egg:core] dump config after ready, 7ms
+2020-03-30 21:15:42,014 INFO 73316 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 21:15:42,069 INFO 73316 [egg-multipart] stream mode enable
+2020-03-30 21:15:42,195 INFO 73316 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 21:15:42,200 INFO 73316 [egg-security] use csrf middleware
+2020-03-30 21:15:42,202 INFO 73316 [egg-security] use methodnoallow middleware
+2020-03-30 21:15:42,202 INFO 73316 [egg-security] use noopen middleware
+2020-03-30 21:15:42,204 INFO 73316 [egg-security] use nosniff middleware
+2020-03-30 21:15:42,205 INFO 73316 [egg-security] use xssProtection middleware
+2020-03-30 21:15:42,206 INFO 73316 [egg-security] use xframe middleware
+2020-03-30 21:15:42,206 INFO 73316 [egg-security] use dta middleware
+2020-03-30 21:15:42,207 INFO 73316 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 21:15:42,228 INFO 73316 [egg:core] dump config after load, 10ms
+2020-03-30 21:15:42,245 INFO 73316 [egg-watcher:application] watcher start success
+2020-03-30 21:15:42,253 INFO 73316 [egg:core] dump config after ready, 5ms
+2020-03-30 21:15:49,133 INFO 73323 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 21:15:49,216 INFO 73323 [egg-multipart] stream mode enable
+2020-03-30 21:15:49,342 INFO 73323 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 21:15:49,352 INFO 73323 [egg-security] use csrf middleware
+2020-03-30 21:15:49,354 INFO 73323 [egg-security] use methodnoallow middleware
+2020-03-30 21:15:49,355 INFO 73323 [egg-security] use noopen middleware
+2020-03-30 21:15:49,356 INFO 73323 [egg-security] use nosniff middleware
+2020-03-30 21:15:49,357 INFO 73323 [egg-security] use xssProtection middleware
+2020-03-30 21:15:49,358 INFO 73323 [egg-security] use xframe middleware
+2020-03-30 21:15:49,361 INFO 73323 [egg-security] use dta middleware
+2020-03-30 21:15:49,361 INFO 73323 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 21:15:49,395 INFO 73323 [egg:core] dump config after load, 18ms
+2020-03-30 21:15:49,427 INFO 73323 [egg-watcher:application] watcher start success
+2020-03-30 21:15:49,444 INFO 73323 [egg:core] dump config after ready, 9ms
+2020-03-30 21:16:07,822 INFO 73328 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 21:16:07,911 INFO 73328 [egg-multipart] stream mode enable
+2020-03-30 21:16:07,965 INFO 73328 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 21:16:07,968 INFO 73328 [egg-security] use csrf middleware
+2020-03-30 21:16:07,974 INFO 73328 [egg-security] use methodnoallow middleware
+2020-03-30 21:16:07,974 INFO 73328 [egg-security] use noopen middleware
+2020-03-30 21:16:07,975 INFO 73328 [egg-security] use nosniff middleware
+2020-03-30 21:16:07,975 INFO 73328 [egg-security] use xssProtection middleware
+2020-03-30 21:16:07,976 INFO 73328 [egg-security] use xframe middleware
+2020-03-30 21:16:07,976 INFO 73328 [egg-security] use dta middleware
+2020-03-30 21:16:07,976 INFO 73328 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 21:16:07,992 INFO 73328 [egg:core] dump config after load, 9ms
+2020-03-30 21:16:08,015 INFO 73328 [egg-watcher:application] watcher start success
+2020-03-30 21:16:08,029 INFO 73328 [egg:core] dump config after ready, 10ms
+2020-03-30 21:17:34,664 INFO 73345 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 21:17:34,711 INFO 73345 [egg-multipart] stream mode enable
+2020-03-30 21:17:34,793 INFO 73345 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 21:17:34,796 INFO 73345 [egg-security] use csrf middleware
+2020-03-30 21:17:34,798 INFO 73345 [egg-security] use methodnoallow middleware
+2020-03-30 21:17:34,798 INFO 73345 [egg-security] use noopen middleware
+2020-03-30 21:17:34,799 INFO 73345 [egg-security] use nosniff middleware
+2020-03-30 21:17:34,800 INFO 73345 [egg-security] use xssProtection middleware
+2020-03-30 21:17:34,801 INFO 73345 [egg-security] use xframe middleware
+2020-03-30 21:17:34,802 INFO 73345 [egg-security] use dta middleware
+2020-03-30 21:17:34,802 INFO 73345 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 21:17:34,816 INFO 73345 [egg:core] dump config after load, 8ms
+2020-03-30 21:17:34,839 INFO 73345 [egg-watcher:application] watcher start success
+2020-03-30 21:17:34,848 INFO 73345 [egg:core] dump config after ready, 6ms
+2020-03-30 21:18:43,034 INFO 73355 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 21:18:43,089 INFO 73355 [egg-multipart] stream mode enable
+2020-03-30 21:18:43,228 INFO 73355 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 21:18:43,234 INFO 73355 [egg-security] use csrf middleware
+2020-03-30 21:18:43,243 INFO 73355 [egg-security] use methodnoallow middleware
+2020-03-30 21:18:43,244 INFO 73355 [egg-security] use noopen middleware
+2020-03-30 21:18:43,247 INFO 73355 [egg-security] use nosniff middleware
+2020-03-30 21:18:43,248 INFO 73355 [egg-security] use xssProtection middleware
+2020-03-30 21:18:43,251 INFO 73355 [egg-security] use xframe middleware
+2020-03-30 21:18:43,252 INFO 73355 [egg-security] use dta middleware
+2020-03-30 21:18:43,252 INFO 73355 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 21:18:43,271 INFO 73355 [egg:core] dump config after load, 9ms
+2020-03-30 21:18:43,299 INFO 73355 [egg-watcher:application] watcher start success
+2020-03-30 21:18:43,314 INFO 73355 [egg:core] dump config after ready, 9ms
+2020-03-30 21:18:58,131 INFO 73369 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 21:18:58,185 INFO 73369 [egg-multipart] stream mode enable
+2020-03-30 21:18:58,257 INFO 73369 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 21:18:58,265 INFO 73369 [egg-security] use csrf middleware
+2020-03-30 21:18:58,266 INFO 73369 [egg-security] use methodnoallow middleware
+2020-03-30 21:18:58,267 INFO 73369 [egg-security] use noopen middleware
+2020-03-30 21:18:58,268 INFO 73369 [egg-security] use nosniff middleware
+2020-03-30 21:18:58,269 INFO 73369 [egg-security] use xssProtection middleware
+2020-03-30 21:18:58,269 INFO 73369 [egg-security] use xframe middleware
+2020-03-30 21:18:58,270 INFO 73369 [egg-security] use dta middleware
+2020-03-30 21:18:58,270 INFO 73369 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 21:18:58,288 INFO 73369 [egg:core] dump config after load, 9ms
+2020-03-30 21:18:58,318 INFO 73369 [egg-watcher:application] watcher start success
+2020-03-30 21:18:58,330 INFO 73369 [egg:core] dump config after ready, 7ms
+2020-03-30 21:20:30,279 INFO 73397 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 21:20:30,356 INFO 73397 [egg-multipart] stream mode enable
+2020-03-30 21:20:30,492 INFO 73397 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 21:20:30,496 INFO 73397 [egg-security] use csrf middleware
+2020-03-30 21:20:30,498 INFO 73397 [egg-security] use methodnoallow middleware
+2020-03-30 21:20:30,499 INFO 73397 [egg-security] use noopen middleware
+2020-03-30 21:20:30,501 INFO 73397 [egg-security] use nosniff middleware
+2020-03-30 21:20:30,502 INFO 73397 [egg-security] use xssProtection middleware
+2020-03-30 21:20:30,503 INFO 73397 [egg-security] use xframe middleware
+2020-03-30 21:20:30,505 INFO 73397 [egg-security] use dta middleware
+2020-03-30 21:20:30,505 INFO 73397 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 21:20:30,527 INFO 73397 [egg:core] dump config after load, 12ms
+2020-03-30 21:20:30,555 INFO 73397 [egg-watcher:application] watcher start success
+2020-03-30 21:20:30,571 INFO 73397 [egg:core] dump config after ready, 9ms
+2020-03-30 21:21:14,954 INFO 73406 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 21:21:15,012 INFO 73406 [egg-multipart] stream mode enable
+2020-03-30 21:21:15,158 INFO 73406 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 21:21:15,163 INFO 73406 [egg-security] use csrf middleware
+2020-03-30 21:21:15,165 INFO 73406 [egg-security] use methodnoallow middleware
+2020-03-30 21:21:15,167 INFO 73406 [egg-security] use noopen middleware
+2020-03-30 21:21:15,169 INFO 73406 [egg-security] use nosniff middleware
+2020-03-30 21:21:15,171 INFO 73406 [egg-security] use xssProtection middleware
+2020-03-30 21:21:15,172 INFO 73406 [egg-security] use xframe middleware
+2020-03-30 21:21:15,173 INFO 73406 [egg-security] use dta middleware
+2020-03-30 21:21:15,173 INFO 73406 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 21:21:15,194 INFO 73406 [egg:core] dump config after load, 11ms
+2020-03-30 21:21:15,245 INFO 73406 [egg-watcher:application] watcher start success
+2020-03-30 21:21:15,285 INFO 73406 [egg:core] dump config after ready, 12ms
+2020-03-30 21:21:17,096 INFO 73407 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 21:21:17,170 INFO 73407 [egg-multipart] stream mode enable
+2020-03-30 21:21:17,272 INFO 73407 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 21:21:17,281 INFO 73407 [egg-security] use csrf middleware
+2020-03-30 21:21:17,282 INFO 73407 [egg-security] use methodnoallow middleware
+2020-03-30 21:21:17,283 INFO 73407 [egg-security] use noopen middleware
+2020-03-30 21:21:17,286 INFO 73407 [egg-security] use nosniff middleware
+2020-03-30 21:21:17,287 INFO 73407 [egg-security] use xssProtection middleware
+2020-03-30 21:21:17,288 INFO 73407 [egg-security] use xframe middleware
+2020-03-30 21:21:17,288 INFO 73407 [egg-security] use dta middleware
+2020-03-30 21:21:17,288 INFO 73407 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 21:21:17,306 INFO 73407 [egg:core] dump config after load, 11ms
+2020-03-30 21:21:17,335 INFO 73407 [egg-watcher:application] watcher start success
+2020-03-30 21:21:17,345 INFO 73407 [egg:core] dump config after ready, 6ms
+2020-03-30 21:21:24,531 INFO 73410 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 21:21:24,575 INFO 73410 [egg-multipart] stream mode enable
+2020-03-30 21:21:24,631 INFO 73410 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 21:21:24,638 INFO 73410 [egg-security] use csrf middleware
+2020-03-30 21:21:24,639 INFO 73410 [egg-security] use methodnoallow middleware
+2020-03-30 21:21:24,639 INFO 73410 [egg-security] use noopen middleware
+2020-03-30 21:21:24,640 INFO 73410 [egg-security] use nosniff middleware
+2020-03-30 21:21:24,641 INFO 73410 [egg-security] use xssProtection middleware
+2020-03-30 21:21:24,642 INFO 73410 [egg-security] use xframe middleware
+2020-03-30 21:21:24,642 INFO 73410 [egg-security] use dta middleware
+2020-03-30 21:21:24,642 INFO 73410 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 21:21:24,656 INFO 73410 [egg:core] dump config after load, 8ms
+2020-03-30 21:21:24,683 INFO 73410 [egg-watcher:application] watcher start success
+2020-03-30 21:21:24,698 INFO 73410 [egg:core] dump config after ready, 7ms
+2020-03-30 21:21:27,676 INFO 73411 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 21:21:27,742 INFO 73411 [egg-multipart] stream mode enable
+2020-03-30 21:21:27,834 INFO 73411 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 21:21:27,839 INFO 73411 [egg-security] use csrf middleware
+2020-03-30 21:21:27,840 INFO 73411 [egg-security] use methodnoallow middleware
+2020-03-30 21:21:27,841 INFO 73411 [egg-security] use noopen middleware
+2020-03-30 21:21:27,842 INFO 73411 [egg-security] use nosniff middleware
+2020-03-30 21:21:27,842 INFO 73411 [egg-security] use xssProtection middleware
+2020-03-30 21:21:27,843 INFO 73411 [egg-security] use xframe middleware
+2020-03-30 21:21:27,843 INFO 73411 [egg-security] use dta middleware
+2020-03-30 21:21:27,843 INFO 73411 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 21:21:27,873 INFO 73411 [egg:core] dump config after load, 17ms
+2020-03-30 21:21:27,904 INFO 73411 [egg-watcher:application] watcher start success
+2020-03-30 21:21:27,920 INFO 73411 [egg:core] dump config after ready, 10ms
+2020-03-30 21:22:09,840 INFO 73421 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 21:22:09,984 INFO 73421 [egg-multipart] stream mode enable
+2020-03-30 21:22:10,153 INFO 73421 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 21:22:10,158 INFO 73421 [egg-security] use csrf middleware
+2020-03-30 21:22:10,159 INFO 73421 [egg-security] use methodnoallow middleware
+2020-03-30 21:22:10,160 INFO 73421 [egg-security] use noopen middleware
+2020-03-30 21:22:10,162 INFO 73421 [egg-security] use nosniff middleware
+2020-03-30 21:22:10,163 INFO 73421 [egg-security] use xssProtection middleware
+2020-03-30 21:22:10,164 INFO 73421 [egg-security] use xframe middleware
+2020-03-30 21:22:10,165 INFO 73421 [egg-security] use dta middleware
+2020-03-30 21:22:10,165 INFO 73421 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 21:22:10,182 INFO 73421 [egg:core] dump config after load, 10ms
+2020-03-30 21:22:10,205 INFO 73421 [egg-watcher:application] watcher start success
+2020-03-30 21:22:10,217 INFO 73421 [egg:core] dump config after ready, 7ms
+2020-03-30 21:26:03,590 INFO 73456 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 21:26:03,639 INFO 73456 [egg-multipart] stream mode enable
+2020-03-30 21:26:03,751 INFO 73456 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 21:26:03,759 INFO 73456 [egg-security] use csrf middleware
+2020-03-30 21:26:03,762 INFO 73456 [egg-security] use methodnoallow middleware
+2020-03-30 21:26:03,763 INFO 73456 [egg-security] use noopen middleware
+2020-03-30 21:26:03,764 INFO 73456 [egg-security] use nosniff middleware
+2020-03-30 21:26:03,765 INFO 73456 [egg-security] use xssProtection middleware
+2020-03-30 21:26:03,766 INFO 73456 [egg-security] use xframe middleware
+2020-03-30 21:26:03,767 INFO 73456 [egg-security] use dta middleware
+2020-03-30 21:26:03,767 INFO 73456 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 21:26:03,784 INFO 73456 [egg:core] dump config after load, 9ms
+2020-03-30 21:26:03,804 INFO 73456 [egg-watcher:application] watcher start success
+2020-03-30 21:26:03,818 INFO 73456 [egg:core] dump config after ready, 8ms
+2020-03-30 21:28:07,085 INFO 73500 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 21:28:07,135 INFO 73500 [egg-multipart] stream mode enable
+2020-03-30 21:28:07,235 INFO 73500 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 21:28:07,240 INFO 73500 [egg-security] use csrf middleware
+2020-03-30 21:28:07,241 INFO 73500 [egg-security] use methodnoallow middleware
+2020-03-30 21:28:07,242 INFO 73500 [egg-security] use noopen middleware
+2020-03-30 21:28:07,244 INFO 73500 [egg-security] use nosniff middleware
+2020-03-30 21:28:07,245 INFO 73500 [egg-security] use xssProtection middleware
+2020-03-30 21:28:07,246 INFO 73500 [egg-security] use xframe middleware
+2020-03-30 21:28:07,247 INFO 73500 [egg-security] use dta middleware
+2020-03-30 21:28:07,247 INFO 73500 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 21:28:07,261 INFO 73500 [egg:core] dump config after load, 7ms
+2020-03-30 21:28:07,281 INFO 73500 [egg-watcher:application] watcher start success
+2020-03-30 21:28:07,289 INFO 73500 [egg:core] dump config after ready, 5ms
+2020-03-30 21:28:08,652 INFO 73502 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 21:28:08,696 INFO 73502 [egg-multipart] stream mode enable
+2020-03-30 21:28:08,755 INFO 73502 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 21:28:08,758 INFO 73502 [egg-security] use csrf middleware
+2020-03-30 21:28:08,760 INFO 73502 [egg-security] use methodnoallow middleware
+2020-03-30 21:28:08,761 INFO 73502 [egg-security] use noopen middleware
+2020-03-30 21:28:08,762 INFO 73502 [egg-security] use nosniff middleware
+2020-03-30 21:28:08,763 INFO 73502 [egg-security] use xssProtection middleware
+2020-03-30 21:28:08,763 INFO 73502 [egg-security] use xframe middleware
+2020-03-30 21:28:08,764 INFO 73502 [egg-security] use dta middleware
+2020-03-30 21:28:08,764 INFO 73502 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 21:28:08,779 INFO 73502 [egg:core] dump config after load, 9ms
+2020-03-30 21:28:08,805 INFO 73502 [egg-watcher:application] watcher start success
+2020-03-30 21:28:08,818 INFO 73502 [egg:core] dump config after ready, 8ms
+2020-03-30 21:29:18,504 INFO 73517 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 21:29:18,565 INFO 73517 [egg-multipart] stream mode enable
+2020-03-30 21:29:18,667 INFO 73517 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 21:29:18,674 INFO 73517 [egg-security] use csrf middleware
+2020-03-30 21:29:18,676 INFO 73517 [egg-security] use methodnoallow middleware
+2020-03-30 21:29:18,676 INFO 73517 [egg-security] use noopen middleware
+2020-03-30 21:29:18,677 INFO 73517 [egg-security] use nosniff middleware
+2020-03-30 21:29:18,678 INFO 73517 [egg-security] use xssProtection middleware
+2020-03-30 21:29:18,679 INFO 73517 [egg-security] use xframe middleware
+2020-03-30 21:29:18,680 INFO 73517 [egg-security] use dta middleware
+2020-03-30 21:29:18,680 INFO 73517 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 21:29:18,694 INFO 73517 [egg:core] dump config after load, 7ms
+2020-03-30 21:29:18,717 INFO 73517 [egg-watcher:application] watcher start success
+2020-03-30 21:29:18,732 INFO 73517 [egg:core] dump config after ready, 9ms
+2020-03-30 21:29:56,638 INFO 73527 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 21:29:56,746 INFO 73527 [egg-multipart] stream mode enable
+2020-03-30 21:29:56,867 INFO 73527 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 21:29:56,872 INFO 73527 [egg-security] use csrf middleware
+2020-03-30 21:29:56,873 INFO 73527 [egg-security] use methodnoallow middleware
+2020-03-30 21:29:56,874 INFO 73527 [egg-security] use noopen middleware
+2020-03-30 21:29:56,875 INFO 73527 [egg-security] use nosniff middleware
+2020-03-30 21:29:56,877 INFO 73527 [egg-security] use xssProtection middleware
+2020-03-30 21:29:56,878 INFO 73527 [egg-security] use xframe middleware
+2020-03-30 21:29:56,880 INFO 73527 [egg-security] use dta middleware
+2020-03-30 21:29:56,880 INFO 73527 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 21:29:56,900 INFO 73527 [egg:core] dump config after load, 12ms
+2020-03-30 21:29:56,927 INFO 73527 [egg-watcher:application] watcher start success
+2020-03-30 21:29:56,940 INFO 73527 [egg:core] dump config after ready, 8ms
+2020-03-30 21:31:42,832 INFO 73559 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 21:31:42,889 INFO 73559 [egg-multipart] stream mode enable
+2020-03-30 21:31:43,003 INFO 73559 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 21:31:43,014 INFO 73559 [egg-security] use csrf middleware
+2020-03-30 21:31:43,016 INFO 73559 [egg-security] use methodnoallow middleware
+2020-03-30 21:31:43,017 INFO 73559 [egg-security] use noopen middleware
+2020-03-30 21:31:43,018 INFO 73559 [egg-security] use nosniff middleware
+2020-03-30 21:31:43,021 INFO 73559 [egg-security] use xssProtection middleware
+2020-03-30 21:31:43,023 INFO 73559 [egg-security] use xframe middleware
+2020-03-30 21:31:43,024 INFO 73559 [egg-security] use dta middleware
+2020-03-30 21:31:43,024 INFO 73559 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 21:31:43,046 INFO 73559 [egg:core] dump config after load, 12ms
+2020-03-30 21:31:43,131 INFO 73559 [egg-watcher:application] watcher start success
+2020-03-30 21:31:43,155 INFO 73559 [egg:core] dump config after ready, 14ms
+2020-03-30 21:32:19,527 INFO 73566 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-30 21:32:19,588 INFO 73566 [egg-multipart] stream mode enable
+2020-03-30 21:32:19,731 INFO 73566 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-30 21:32:19,758 INFO 73566 [egg-security] use csrf middleware
+2020-03-30 21:32:19,763 INFO 73566 [egg-security] use methodnoallow middleware
+2020-03-30 21:32:19,765 INFO 73566 [egg-security] use noopen middleware
+2020-03-30 21:32:19,766 INFO 73566 [egg-security] use nosniff middleware
+2020-03-30 21:32:19,768 INFO 73566 [egg-security] use xssProtection middleware
+2020-03-30 21:32:19,769 INFO 73566 [egg-security] use xframe middleware
+2020-03-30 21:32:19,772 INFO 73566 [egg-security] use dta middleware
+2020-03-30 21:32:19,772 INFO 73566 [egg-security] compose 7 middlewares into one security middleware
+2020-03-30 21:32:19,798 INFO 73566 [egg:core] dump config after load, 12ms
+2020-03-30 21:32:19,831 INFO 73566 [egg-watcher:application] watcher start success
+2020-03-30 21:32:19,850 INFO 73566 [egg:core] dump config after ready, 12ms
+2020-03-30 22:03:13,894 WARN 73566 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-03-30 23:17:24,338 WARN 73566 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-03-31 09:15:37,202 WARN 73566 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-03-31 09:15:37,208 WARN 73566 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-03-31 09:18:42,348 INFO 74103 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 09:18:42,389 INFO 74103 [egg-multipart] stream mode enable
+2020-03-31 09:18:42,488 INFO 74103 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 09:18:42,499 INFO 74103 [egg-security] use csrf middleware
+2020-03-31 09:18:42,501 INFO 74103 [egg-security] use methodnoallow middleware
+2020-03-31 09:18:42,502 INFO 74103 [egg-security] use noopen middleware
+2020-03-31 09:18:42,504 INFO 74103 [egg-security] use nosniff middleware
+2020-03-31 09:18:42,506 INFO 74103 [egg-security] use xssProtection middleware
+2020-03-31 09:18:42,507 INFO 74103 [egg-security] use xframe middleware
+2020-03-31 09:18:42,508 INFO 74103 [egg-security] use dta middleware
+2020-03-31 09:18:42,508 INFO 74103 [egg-security] compose 7 middlewares into one security middleware
+2020-03-31 09:18:42,528 INFO 74103 [egg:core] dump config after load, 11ms
+2020-03-31 09:18:42,559 INFO 74103 [egg-watcher:application] watcher start success
+2020-03-31 09:18:42,574 INFO 74103 [egg:core] dump config after ready, 10ms
+2020-03-31 09:43:47,673 INFO 74401 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 09:43:47,728 INFO 74401 [egg-multipart] stream mode enable
+2020-03-31 09:43:47,843 INFO 74401 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 09:43:47,849 INFO 74401 [egg-security] use csrf middleware
+2020-03-31 09:43:47,850 INFO 74401 [egg-security] use methodnoallow middleware
+2020-03-31 09:43:47,854 INFO 74401 [egg-security] use noopen middleware
+2020-03-31 09:43:47,856 INFO 74401 [egg-security] use nosniff middleware
+2020-03-31 09:43:47,858 INFO 74401 [egg-security] use xssProtection middleware
+2020-03-31 09:43:47,859 INFO 74401 [egg-security] use xframe middleware
+2020-03-31 09:43:47,860 INFO 74401 [egg-security] use dta middleware
+2020-03-31 09:43:47,860 INFO 74401 [egg-security] compose 7 middlewares into one security middleware
+2020-03-31 09:43:47,882 INFO 74401 [egg:core] dump config after load, 12ms
+2020-03-31 09:43:47,908 INFO 74401 [egg-watcher:application] watcher start success
+2020-03-31 09:43:47,923 INFO 74401 [egg:core] dump config after ready, 9ms
+2020-03-31 09:44:58,409 INFO 74435 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 09:44:58,452 INFO 74435 [egg-multipart] stream mode enable
+2020-03-31 09:44:58,524 INFO 74435 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 09:44:58,527 INFO 74435 [egg-security] use csrf middleware
+2020-03-31 09:44:58,528 INFO 74435 [egg-security] use methodnoallow middleware
+2020-03-31 09:44:58,529 INFO 74435 [egg-security] use noopen middleware
+2020-03-31 09:44:58,529 INFO 74435 [egg-security] use nosniff middleware
+2020-03-31 09:44:58,530 INFO 74435 [egg-security] use xssProtection middleware
+2020-03-31 09:44:58,530 INFO 74435 [egg-security] use xframe middleware
+2020-03-31 09:44:58,531 INFO 74435 [egg-security] use dta middleware
+2020-03-31 09:44:58,531 INFO 74435 [egg-security] compose 7 middlewares into one security middleware
+2020-03-31 09:44:58,548 INFO 74435 [egg:core] dump config after load, 10ms
+2020-03-31 09:44:58,570 INFO 74435 [egg-watcher:application] watcher start success
+2020-03-31 09:44:58,579 INFO 74435 [egg:core] dump config after ready, 6ms
+2020-03-31 09:45:09,381 INFO 74439 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 09:45:09,420 INFO 74439 [egg-multipart] stream mode enable
+2020-03-31 09:45:09,472 INFO 74439 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 09:45:09,476 INFO 74439 [egg-security] use csrf middleware
+2020-03-31 09:45:09,476 INFO 74439 [egg-security] use methodnoallow middleware
+2020-03-31 09:45:09,477 INFO 74439 [egg-security] use noopen middleware
+2020-03-31 09:45:09,477 INFO 74439 [egg-security] use nosniff middleware
+2020-03-31 09:45:09,478 INFO 74439 [egg-security] use xssProtection middleware
+2020-03-31 09:45:09,478 INFO 74439 [egg-security] use xframe middleware
+2020-03-31 09:45:09,478 INFO 74439 [egg-security] use dta middleware
+2020-03-31 09:45:09,478 INFO 74439 [egg-security] compose 7 middlewares into one security middleware
+2020-03-31 09:45:09,495 INFO 74439 [egg:core] dump config after load, 10ms
+2020-03-31 09:45:09,518 INFO 74439 [egg-watcher:application] watcher start success
+2020-03-31 09:45:09,527 INFO 74439 [egg:core] dump config after ready, 5ms
+2020-03-31 09:45:11,641 INFO 74440 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 09:45:11,716 INFO 74440 [egg-multipart] stream mode enable
+2020-03-31 09:45:11,778 INFO 74440 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 09:45:11,782 INFO 74440 [egg-security] use csrf middleware
+2020-03-31 09:45:11,783 INFO 74440 [egg-security] use methodnoallow middleware
+2020-03-31 09:45:11,783 INFO 74440 [egg-security] use noopen middleware
+2020-03-31 09:45:11,784 INFO 74440 [egg-security] use nosniff middleware
+2020-03-31 09:45:11,785 INFO 74440 [egg-security] use xssProtection middleware
+2020-03-31 09:45:11,785 INFO 74440 [egg-security] use xframe middleware
+2020-03-31 09:45:11,785 INFO 74440 [egg-security] use dta middleware
+2020-03-31 09:45:11,785 INFO 74440 [egg-security] compose 7 middlewares into one security middleware
+2020-03-31 09:45:11,798 INFO 74440 [egg:core] dump config after load, 7ms
+2020-03-31 09:45:11,816 INFO 74440 [egg-watcher:application] watcher start success
+2020-03-31 09:45:11,824 INFO 74440 [egg:core] dump config after ready, 5ms
+2020-03-31 09:47:14,132 INFO 74496 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 09:47:14,192 INFO 74496 [egg-multipart] stream mode enable
+2020-03-31 09:47:14,306 INFO 74496 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 09:47:14,311 INFO 74496 [egg-security] use csrf middleware
+2020-03-31 09:47:14,313 INFO 74496 [egg-security] use methodnoallow middleware
+2020-03-31 09:47:14,314 INFO 74496 [egg-security] use noopen middleware
+2020-03-31 09:47:14,316 INFO 74496 [egg-security] use nosniff middleware
+2020-03-31 09:47:14,318 INFO 74496 [egg-security] use xssProtection middleware
+2020-03-31 09:47:14,322 INFO 74496 [egg-security] use xframe middleware
+2020-03-31 09:47:14,323 INFO 74496 [egg-security] use dta middleware
+2020-03-31 09:47:14,323 INFO 74496 [egg-security] compose 7 middlewares into one security middleware
+2020-03-31 09:47:14,347 INFO 74496 [egg:core] dump config after load, 10ms
+2020-03-31 09:47:14,372 INFO 74496 [egg-watcher:application] watcher start success
+2020-03-31 09:47:14,389 INFO 74496 [egg:core] dump config after ready, 11ms
+2020-03-31 09:47:20,122 INFO 74501 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 09:47:20,166 INFO 74501 [egg-multipart] stream mode enable
+2020-03-31 09:47:20,223 INFO 74501 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 09:47:20,232 INFO 74501 [egg-security] use csrf middleware
+2020-03-31 09:47:20,234 INFO 74501 [egg-security] use methodnoallow middleware
+2020-03-31 09:47:20,234 INFO 74501 [egg-security] use noopen middleware
+2020-03-31 09:47:20,235 INFO 74501 [egg-security] use nosniff middleware
+2020-03-31 09:47:20,235 INFO 74501 [egg-security] use xssProtection middleware
+2020-03-31 09:47:20,236 INFO 74501 [egg-security] use xframe middleware
+2020-03-31 09:47:20,236 INFO 74501 [egg-security] use dta middleware
+2020-03-31 09:47:20,236 INFO 74501 [egg-security] compose 7 middlewares into one security middleware
+2020-03-31 09:47:20,251 INFO 74501 [egg:core] dump config after load, 8ms
+2020-03-31 09:47:20,270 INFO 74501 [egg-watcher:application] watcher start success
+2020-03-31 09:47:20,281 INFO 74501 [egg:core] dump config after ready, 7ms
+2020-03-31 10:33:19,382 INFO 75007 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 10:33:19,552 INFO 75007 [egg-multipart] stream mode enable
+2020-03-31 10:33:19,809 INFO 75007 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 10:33:19,819 INFO 75007 [egg-security] use csrf middleware
+2020-03-31 10:33:19,821 INFO 75007 [egg-security] use methodnoallow middleware
+2020-03-31 10:33:19,822 INFO 75007 [egg-security] use noopen middleware
+2020-03-31 10:33:19,823 INFO 75007 [egg-security] use nosniff middleware
+2020-03-31 10:33:19,826 INFO 75007 [egg-security] use xssProtection middleware
+2020-03-31 10:33:19,829 INFO 75007 [egg-security] use xframe middleware
+2020-03-31 10:33:19,830 INFO 75007 [egg-security] use dta middleware
+2020-03-31 10:33:19,830 INFO 75007 [egg-security] compose 7 middlewares into one security middleware
+2020-03-31 10:33:19,852 INFO 75007 [egg:core] dump config after load, 14ms
+2020-03-31 10:33:19,880 INFO 75007 [egg-watcher:application] watcher start success
+2020-03-31 10:33:19,894 INFO 75007 [egg:core] dump config after ready, 9ms
+2020-03-31 10:34:09,575 INFO 75032 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 10:34:09,700 INFO 75032 [egg-multipart] stream mode enable
+2020-03-31 10:34:09,832 INFO 75032 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 10:34:09,836 INFO 75032 [egg-security] use csrf middleware
+2020-03-31 10:34:09,840 INFO 75032 [egg-security] use methodnoallow middleware
+2020-03-31 10:34:09,841 INFO 75032 [egg-security] use noopen middleware
+2020-03-31 10:34:09,842 INFO 75032 [egg-security] use nosniff middleware
+2020-03-31 10:34:09,844 INFO 75032 [egg-security] use xssProtection middleware
+2020-03-31 10:34:09,845 INFO 75032 [egg-security] use xframe middleware
+2020-03-31 10:34:09,845 INFO 75032 [egg-security] use dta middleware
+2020-03-31 10:34:09,846 INFO 75032 [egg-security] compose 7 middlewares into one security middleware
+2020-03-31 10:34:09,862 INFO 75032 [egg:core] dump config after load, 7ms
+2020-03-31 10:34:09,888 INFO 75032 [egg-watcher:application] watcher start success
+2020-03-31 10:34:09,900 INFO 75032 [egg:core] dump config after ready, 7ms
+2020-03-31 10:39:38,420 INFO 75086 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 10:39:38,558 INFO 75086 [egg-multipart] stream mode enable
+2020-03-31 10:39:38,676 INFO 75086 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 10:39:38,683 INFO 75086 [egg-security] use csrf middleware
+2020-03-31 10:39:38,685 INFO 75086 [egg-security] use methodnoallow middleware
+2020-03-31 10:39:38,685 INFO 75086 [egg-security] use noopen middleware
+2020-03-31 10:39:38,687 INFO 75086 [egg-security] use nosniff middleware
+2020-03-31 10:39:38,689 INFO 75086 [egg-security] use xssProtection middleware
+2020-03-31 10:39:38,690 INFO 75086 [egg-security] use xframe middleware
+2020-03-31 10:39:38,691 INFO 75086 [egg-security] use dta middleware
+2020-03-31 10:39:38,691 INFO 75086 [egg-security] compose 7 middlewares into one security middleware
+2020-03-31 10:39:38,710 INFO 75086 [egg:core] dump config after load, 9ms
+2020-03-31 10:39:38,728 INFO 75086 [egg-watcher:application] watcher start success
+2020-03-31 10:39:38,737 INFO 75086 [egg:core] dump config after ready, 6ms
+2020-03-31 10:43:33,777 INFO 75136 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 10:43:33,869 INFO 75136 [egg-multipart] stream mode enable
+2020-03-31 10:43:34,054 INFO 75136 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 10:43:34,058 INFO 75136 [egg-security] use csrf middleware
+2020-03-31 10:43:34,059 INFO 75136 [egg-security] use methodnoallow middleware
+2020-03-31 10:43:34,060 INFO 75136 [egg-security] use noopen middleware
+2020-03-31 10:43:34,062 INFO 75136 [egg-security] use nosniff middleware
+2020-03-31 10:43:34,063 INFO 75136 [egg-security] use xssProtection middleware
+2020-03-31 10:43:34,064 INFO 75136 [egg-security] use xframe middleware
+2020-03-31 10:43:34,065 INFO 75136 [egg-security] use dta middleware
+2020-03-31 10:43:34,065 INFO 75136 [egg-security] compose 7 middlewares into one security middleware
+2020-03-31 10:43:34,090 INFO 75136 [egg:core] dump config after load, 17ms
+2020-03-31 10:43:34,133 INFO 75136 [egg-watcher:application] watcher start success
+2020-03-31 10:43:34,152 INFO 75136 [egg:core] dump config after ready, 14ms
+2020-03-31 10:44:00,641 INFO 75142 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 10:44:00,693 INFO 75142 [egg-multipart] stream mode enable
+2020-03-31 10:44:00,805 INFO 75142 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 10:44:00,808 INFO 75142 [egg-security] use csrf middleware
+2020-03-31 10:44:00,810 INFO 75142 [egg-security] use methodnoallow middleware
+2020-03-31 10:44:00,811 INFO 75142 [egg-security] use noopen middleware
+2020-03-31 10:44:00,816 INFO 75142 [egg-security] use nosniff middleware
+2020-03-31 10:44:00,817 INFO 75142 [egg-security] use xssProtection middleware
+2020-03-31 10:44:00,818 INFO 75142 [egg-security] use xframe middleware
+2020-03-31 10:44:00,819 INFO 75142 [egg-security] use dta middleware
+2020-03-31 10:44:00,819 INFO 75142 [egg-security] compose 7 middlewares into one security middleware
+2020-03-31 10:44:00,835 INFO 75142 [egg:core] dump config after load, 8ms
+2020-03-31 10:44:00,854 INFO 75142 [egg-watcher:application] watcher start success
+2020-03-31 10:44:00,865 INFO 75142 [egg:core] dump config after ready, 6ms
+2020-03-31 11:49:04,786 INFO 75944 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 11:49:04,842 INFO 75944 [egg-multipart] stream mode enable
+2020-03-31 11:49:04,962 INFO 75944 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 11:49:04,967 INFO 75944 [egg-security] use csrf middleware
+2020-03-31 11:49:04,968 INFO 75944 [egg-security] use methodnoallow middleware
+2020-03-31 11:49:04,970 INFO 75944 [egg-security] use noopen middleware
+2020-03-31 11:49:04,971 INFO 75944 [egg-security] use nosniff middleware
+2020-03-31 11:49:04,972 INFO 75944 [egg-security] use xssProtection middleware
+2020-03-31 11:49:04,973 INFO 75944 [egg-security] use xframe middleware
+2020-03-31 11:49:04,973 INFO 75944 [egg-security] use dta middleware
+2020-03-31 11:49:04,973 INFO 75944 [egg-security] compose 7 middlewares into one security middleware
+2020-03-31 11:49:04,992 INFO 75944 [egg:core] dump config after load, 12ms
+2020-03-31 11:49:05,017 INFO 75944 [egg-watcher:application] watcher start success
+2020-03-31 11:49:05,027 INFO 75944 [egg:core] dump config after ready, 7ms
+2020-03-31 11:50:49,758 INFO 75960 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 11:50:49,832 INFO 75960 [egg-multipart] stream mode enable
+2020-03-31 11:50:49,930 INFO 75960 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 11:50:49,941 INFO 75960 [egg-security] use csrf middleware
+2020-03-31 11:50:49,942 INFO 75960 [egg-security] use methodnoallow middleware
+2020-03-31 11:50:49,943 INFO 75960 [egg-security] use noopen middleware
+2020-03-31 11:50:49,944 INFO 75960 [egg-security] use nosniff middleware
+2020-03-31 11:50:49,945 INFO 75960 [egg-security] use xssProtection middleware
+2020-03-31 11:50:49,946 INFO 75960 [egg-security] use xframe middleware
+2020-03-31 11:50:49,946 INFO 75960 [egg-security] use dta middleware
+2020-03-31 11:50:49,946 INFO 75960 [egg-security] compose 7 middlewares into one security middleware
+2020-03-31 11:50:49,972 INFO 75960 [egg:core] dump config after load, 14ms
+2020-03-31 11:50:50,000 INFO 75960 [egg-watcher:application] watcher start success
+2020-03-31 11:50:50,013 INFO 75960 [egg:core] dump config after ready, 6ms
+2020-03-31 11:51:34,135 INFO 75971 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 11:51:34,215 INFO 75971 [egg-multipart] stream mode enable
+2020-03-31 11:51:34,325 INFO 75971 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 11:51:34,334 INFO 75971 [egg-security] use csrf middleware
+2020-03-31 11:51:34,340 INFO 75971 [egg-security] use methodnoallow middleware
+2020-03-31 11:51:34,341 INFO 75971 [egg-security] use noopen middleware
+2020-03-31 11:51:34,342 INFO 75971 [egg-security] use nosniff middleware
+2020-03-31 11:51:34,343 INFO 75971 [egg-security] use xssProtection middleware
+2020-03-31 11:51:34,344 INFO 75971 [egg-security] use xframe middleware
+2020-03-31 11:51:34,345 INFO 75971 [egg-security] use dta middleware
+2020-03-31 11:51:34,345 INFO 75971 [egg-security] compose 7 middlewares into one security middleware
+2020-03-31 11:51:34,361 INFO 75971 [egg:core] dump config after load, 8ms
+2020-03-31 11:51:34,384 INFO 75971 [egg-watcher:application] watcher start success
+2020-03-31 11:51:34,396 INFO 75971 [egg:core] dump config after ready, 7ms
+2020-03-31 11:51:40,033 INFO 75972 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 11:51:40,155 INFO 75972 [egg-multipart] stream mode enable
+2020-03-31 11:51:40,229 INFO 75972 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 11:51:40,251 INFO 75972 [egg-security] use csrf middleware
+2020-03-31 11:51:40,259 INFO 75972 [egg-security] use methodnoallow middleware
+2020-03-31 11:51:40,260 INFO 75972 [egg-security] use noopen middleware
+2020-03-31 11:51:40,264 INFO 75972 [egg-security] use nosniff middleware
+2020-03-31 11:51:40,265 INFO 75972 [egg-security] use xssProtection middleware
+2020-03-31 11:51:40,265 INFO 75972 [egg-security] use xframe middleware
+2020-03-31 11:51:40,266 INFO 75972 [egg-security] use dta middleware
+2020-03-31 11:51:40,266 INFO 75972 [egg-security] compose 7 middlewares into one security middleware
+2020-03-31 11:51:40,351 INFO 75972 [egg:core] dump config after load, 60ms
+2020-03-31 11:51:40,439 INFO 75972 [egg-watcher:application] watcher start success
+2020-03-31 11:51:40,476 INFO 75972 [egg:core] dump config after ready, 16ms
+2020-03-31 11:51:55,690 INFO 75979 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 11:51:55,733 INFO 75979 [egg-multipart] stream mode enable
+2020-03-31 11:51:55,791 INFO 75979 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 11:51:55,794 INFO 75979 [egg-security] use csrf middleware
+2020-03-31 11:51:55,795 INFO 75979 [egg-security] use methodnoallow middleware
+2020-03-31 11:51:55,795 INFO 75979 [egg-security] use noopen middleware
+2020-03-31 11:51:55,796 INFO 75979 [egg-security] use nosniff middleware
+2020-03-31 11:51:55,797 INFO 75979 [egg-security] use xssProtection middleware
+2020-03-31 11:51:55,797 INFO 75979 [egg-security] use xframe middleware
+2020-03-31 11:51:55,797 INFO 75979 [egg-security] use dta middleware
+2020-03-31 11:51:55,797 INFO 75979 [egg-security] compose 7 middlewares into one security middleware
+2020-03-31 11:51:55,811 INFO 75979 [egg:core] dump config after load, 7ms
+2020-03-31 11:51:55,831 INFO 75979 [egg-watcher:application] watcher start success
+2020-03-31 11:51:55,841 INFO 75979 [egg:core] dump config after ready, 5ms
+2020-03-31 11:51:59,759 INFO 75980 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 11:51:59,824 INFO 75980 [egg-multipart] stream mode enable
+2020-03-31 11:51:59,917 INFO 75980 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 11:51:59,922 INFO 75980 [egg-security] use csrf middleware
+2020-03-31 11:51:59,923 INFO 75980 [egg-security] use methodnoallow middleware
+2020-03-31 11:51:59,924 INFO 75980 [egg-security] use noopen middleware
+2020-03-31 11:51:59,925 INFO 75980 [egg-security] use nosniff middleware
+2020-03-31 11:51:59,926 INFO 75980 [egg-security] use xssProtection middleware
+2020-03-31 11:51:59,927 INFO 75980 [egg-security] use xframe middleware
+2020-03-31 11:51:59,927 INFO 75980 [egg-security] use dta middleware
+2020-03-31 11:51:59,927 INFO 75980 [egg-security] compose 7 middlewares into one security middleware
+2020-03-31 11:51:59,952 INFO 75980 [egg:core] dump config after load, 12ms
+2020-03-31 11:51:59,988 INFO 75980 [egg-watcher:application] watcher start success
+2020-03-31 11:52:00,006 INFO 75980 [egg:core] dump config after ready, 12ms
+2020-03-31 11:52:06,149 INFO 75985 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 11:52:06,309 INFO 75985 [egg-multipart] stream mode enable
+2020-03-31 11:52:06,469 INFO 75985 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 11:52:06,474 INFO 75985 [egg-security] use csrf middleware
+2020-03-31 11:52:06,475 INFO 75985 [egg-security] use methodnoallow middleware
+2020-03-31 11:52:06,476 INFO 75985 [egg-security] use noopen middleware
+2020-03-31 11:52:06,476 INFO 75985 [egg-security] use nosniff middleware
+2020-03-31 11:52:06,477 INFO 75985 [egg-security] use xssProtection middleware
+2020-03-31 11:52:06,477 INFO 75985 [egg-security] use xframe middleware
+2020-03-31 11:52:06,478 INFO 75985 [egg-security] use dta middleware
+2020-03-31 11:52:06,478 INFO 75985 [egg-security] compose 7 middlewares into one security middleware
+2020-03-31 11:52:06,501 INFO 75985 [egg:core] dump config after load, 12ms
+2020-03-31 11:52:06,528 INFO 75985 [egg-watcher:application] watcher start success
+2020-03-31 11:52:06,541 INFO 75985 [egg:core] dump config after ready, 8ms
+2020-03-31 11:53:12,692 INFO 75993 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 11:53:12,747 INFO 75993 [egg-multipart] stream mode enable
+2020-03-31 11:53:12,854 INFO 75993 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 11:53:12,862 INFO 75993 [egg-security] use csrf middleware
+2020-03-31 11:53:12,865 INFO 75993 [egg-security] use methodnoallow middleware
+2020-03-31 11:53:12,867 INFO 75993 [egg-security] use noopen middleware
+2020-03-31 11:53:12,869 INFO 75993 [egg-security] use nosniff middleware
+2020-03-31 11:53:12,871 INFO 75993 [egg-security] use xssProtection middleware
+2020-03-31 11:53:12,872 INFO 75993 [egg-security] use xframe middleware
+2020-03-31 11:53:12,875 INFO 75993 [egg-security] use dta middleware
+2020-03-31 11:53:12,875 INFO 75993 [egg-security] compose 7 middlewares into one security middleware
+2020-03-31 11:53:12,900 INFO 75993 [egg:core] dump config after load, 13ms
+2020-03-31 11:53:12,980 INFO 75993 [egg-watcher:application] watcher start success
+2020-03-31 11:53:12,999 INFO 75993 [egg:core] dump config after ready, 13ms
+2020-03-31 11:53:22,062 INFO 75996 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 11:53:22,126 INFO 75996 [egg-multipart] stream mode enable
+2020-03-31 11:53:22,256 INFO 75996 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 11:53:22,260 INFO 75996 [egg-security] use csrf middleware
+2020-03-31 11:53:22,263 INFO 75996 [egg-security] use methodnoallow middleware
+2020-03-31 11:53:22,265 INFO 75996 [egg-security] use noopen middleware
+2020-03-31 11:53:22,266 INFO 75996 [egg-security] use nosniff middleware
+2020-03-31 11:53:22,267 INFO 75996 [egg-security] use xssProtection middleware
+2020-03-31 11:53:22,268 INFO 75996 [egg-security] use xframe middleware
+2020-03-31 11:53:22,269 INFO 75996 [egg-security] use dta middleware
+2020-03-31 11:53:22,269 INFO 75996 [egg-security] compose 7 middlewares into one security middleware
+2020-03-31 11:53:22,291 INFO 75996 [egg:core] dump config after load, 12ms
+2020-03-31 11:53:22,315 INFO 75996 [egg-watcher:application] watcher start success
+2020-03-31 11:53:22,324 INFO 75996 [egg:core] dump config after ready, 6ms
+2020-03-31 11:53:53,137 INFO 76005 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 11:53:53,195 INFO 76005 [egg-multipart] stream mode enable
+2020-03-31 11:53:53,391 INFO 76005 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 11:53:53,398 INFO 76005 [egg-security] use csrf middleware
+2020-03-31 11:53:53,400 INFO 76005 [egg-security] use methodnoallow middleware
+2020-03-31 11:53:53,401 INFO 76005 [egg-security] use noopen middleware
+2020-03-31 11:53:53,404 INFO 76005 [egg-security] use nosniff middleware
+2020-03-31 11:53:53,405 INFO 76005 [egg-security] use xssProtection middleware
+2020-03-31 11:53:53,406 INFO 76005 [egg-security] use xframe middleware
+2020-03-31 11:53:53,407 INFO 76005 [egg-security] use dta middleware
+2020-03-31 11:53:53,407 INFO 76005 [egg-security] compose 7 middlewares into one security middleware
+2020-03-31 11:53:53,440 INFO 76005 [egg:core] dump config after load, 19ms
+2020-03-31 11:53:53,490 INFO 76005 [egg-watcher:application] watcher start success
+2020-03-31 11:53:53,513 INFO 76005 [egg:core] dump config after ready, 14ms
+2020-03-31 11:55:52,564 INFO 76027 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 11:55:52,659 INFO 76027 [egg-multipart] stream mode enable
+2020-03-31 11:55:52,715 INFO 76027 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 11:55:52,723 INFO 76027 [egg-security] use csrf middleware
+2020-03-31 11:55:52,724 INFO 76027 [egg-security] use methodnoallow middleware
+2020-03-31 11:55:52,724 INFO 76027 [egg-security] use noopen middleware
+2020-03-31 11:55:52,725 INFO 76027 [egg-security] use nosniff middleware
+2020-03-31 11:55:52,725 INFO 76027 [egg-security] use xssProtection middleware
+2020-03-31 11:55:52,726 INFO 76027 [egg-security] use xframe middleware
+2020-03-31 11:55:52,726 INFO 76027 [egg-security] use dta middleware
+2020-03-31 11:55:52,726 INFO 76027 [egg-security] compose 7 middlewares into one security middleware
+2020-03-31 11:55:52,741 INFO 76027 [egg:core] dump config after load, 7ms
+2020-03-31 11:55:52,759 INFO 76027 [egg-watcher:application] watcher start success
+2020-03-31 11:55:52,768 INFO 76027 [egg:core] dump config after ready, 5ms
+2020-03-31 11:56:04,772 INFO 76032 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 11:56:04,823 INFO 76032 [egg-multipart] stream mode enable
+2020-03-31 11:56:04,940 INFO 76032 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 11:56:04,952 INFO 76032 [egg-security] use csrf middleware
+2020-03-31 11:56:04,957 INFO 76032 [egg-security] use methodnoallow middleware
+2020-03-31 11:56:04,958 INFO 76032 [egg-security] use noopen middleware
+2020-03-31 11:56:04,960 INFO 76032 [egg-security] use nosniff middleware
+2020-03-31 11:56:04,961 INFO 76032 [egg-security] use xssProtection middleware
+2020-03-31 11:56:04,963 INFO 76032 [egg-security] use xframe middleware
+2020-03-31 11:56:04,964 INFO 76032 [egg-security] use dta middleware
+2020-03-31 11:56:04,964 INFO 76032 [egg-security] compose 7 middlewares into one security middleware
+2020-03-31 11:56:04,987 INFO 76032 [egg:core] dump config after load, 13ms
+2020-03-31 11:56:05,080 INFO 76032 [egg-watcher:application] watcher start success
+2020-03-31 11:56:05,131 INFO 76032 [egg:core] dump config after ready, 46ms
+2020-03-31 11:56:07,729 INFO 76036 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 11:56:07,777 INFO 76036 [egg-multipart] stream mode enable
+2020-03-31 11:56:07,837 INFO 76036 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 11:56:07,841 INFO 76036 [egg-security] use csrf middleware
+2020-03-31 11:56:07,842 INFO 76036 [egg-security] use methodnoallow middleware
+2020-03-31 11:56:07,842 INFO 76036 [egg-security] use noopen middleware
+2020-03-31 11:56:07,843 INFO 76036 [egg-security] use nosniff middleware
+2020-03-31 11:56:07,843 INFO 76036 [egg-security] use xssProtection middleware
+2020-03-31 11:56:07,844 INFO 76036 [egg-security] use xframe middleware
+2020-03-31 11:56:07,844 INFO 76036 [egg-security] use dta middleware
+2020-03-31 11:56:07,844 INFO 76036 [egg-security] compose 7 middlewares into one security middleware
+2020-03-31 11:56:07,860 INFO 76036 [egg:core] dump config after load, 7ms
+2020-03-31 11:56:07,888 INFO 76036 [egg-watcher:application] watcher start success
+2020-03-31 11:56:07,901 INFO 76036 [egg:core] dump config after ready, 8ms
+2020-03-31 11:56:49,858 INFO 76049 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 11:56:49,906 INFO 76049 [egg-multipart] stream mode enable
+2020-03-31 11:56:50,029 INFO 76049 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 11:56:50,036 INFO 76049 [egg-security] use csrf middleware
+2020-03-31 11:56:50,038 INFO 76049 [egg-security] use methodnoallow middleware
+2020-03-31 11:56:50,039 INFO 76049 [egg-security] use noopen middleware
+2020-03-31 11:56:50,041 INFO 76049 [egg-security] use nosniff middleware
+2020-03-31 11:56:50,042 INFO 76049 [egg-security] use xssProtection middleware
+2020-03-31 11:56:50,043 INFO 76049 [egg-security] use xframe middleware
+2020-03-31 11:56:50,044 INFO 76049 [egg-security] use dta middleware
+2020-03-31 11:56:50,044 INFO 76049 [egg-security] compose 7 middlewares into one security middleware
+2020-03-31 11:56:50,066 INFO 76049 [egg:core] dump config after load, 9ms
+2020-03-31 11:56:50,094 INFO 76049 [egg-watcher:application] watcher start success
+2020-03-31 11:56:50,110 INFO 76049 [egg:core] dump config after ready, 10ms
+2020-03-31 11:57:05,029 INFO 76051 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 11:57:05,071 INFO 76051 [egg-multipart] stream mode enable
+2020-03-31 11:57:05,128 INFO 76051 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 11:57:05,132 INFO 76051 [egg-security] use csrf middleware
+2020-03-31 11:57:05,133 INFO 76051 [egg-security] use methodnoallow middleware
+2020-03-31 11:57:05,134 INFO 76051 [egg-security] use noopen middleware
+2020-03-31 11:57:05,134 INFO 76051 [egg-security] use nosniff middleware
+2020-03-31 11:57:05,135 INFO 76051 [egg-security] use xssProtection middleware
+2020-03-31 11:57:05,135 INFO 76051 [egg-security] use xframe middleware
+2020-03-31 11:57:05,135 INFO 76051 [egg-security] use dta middleware
+2020-03-31 11:57:05,135 INFO 76051 [egg-security] compose 7 middlewares into one security middleware
+2020-03-31 11:57:05,150 INFO 76051 [egg:core] dump config after load, 8ms
+2020-03-31 11:57:05,169 INFO 76051 [egg-watcher:application] watcher start success
+2020-03-31 11:57:05,178 INFO 76051 [egg:core] dump config after ready, 6ms
+2020-03-31 12:01:48,684 INFO 76098 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 12:01:48,740 INFO 76098 [egg-multipart] stream mode enable
+2020-03-31 12:01:48,864 INFO 76098 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 12:01:48,867 INFO 76098 [egg-security] use csrf middleware
+2020-03-31 12:01:48,869 INFO 76098 [egg-security] use methodnoallow middleware
+2020-03-31 12:01:48,869 INFO 76098 [egg-security] use noopen middleware
+2020-03-31 12:01:48,871 INFO 76098 [egg-security] use nosniff middleware
+2020-03-31 12:01:48,872 INFO 76098 [egg-security] use xssProtection middleware
+2020-03-31 12:01:48,872 INFO 76098 [egg-security] use xframe middleware
+2020-03-31 12:01:48,873 INFO 76098 [egg-security] use dta middleware
+2020-03-31 12:01:48,873 INFO 76098 [egg-security] compose 7 middlewares into one security middleware
+2020-03-31 12:01:48,896 INFO 76098 [egg:core] dump config after load, 13ms
+2020-03-31 12:01:48,929 INFO 76098 [egg-watcher:application] watcher start success
+2020-03-31 12:01:48,949 INFO 76098 [egg:core] dump config after ready, 11ms
+2020-03-31 12:03:57,712 INFO 76129 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 12:03:57,755 INFO 76129 [egg-multipart] stream mode enable
+2020-03-31 12:03:57,853 INFO 76129 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 12:03:57,857 INFO 76129 [egg-security] use csrf middleware
+2020-03-31 12:03:57,859 INFO 76129 [egg-security] use methodnoallow middleware
+2020-03-31 12:03:57,859 INFO 76129 [egg-security] use noopen middleware
+2020-03-31 12:03:57,860 INFO 76129 [egg-security] use nosniff middleware
+2020-03-31 12:03:57,862 INFO 76129 [egg-security] use xssProtection middleware
+2020-03-31 12:03:57,862 INFO 76129 [egg-security] use xframe middleware
+2020-03-31 12:03:57,863 INFO 76129 [egg-security] use dta middleware
+2020-03-31 12:03:57,863 INFO 76129 [egg-security] compose 7 middlewares into one security middleware
+2020-03-31 12:03:57,881 INFO 76129 [egg:core] dump config after load, 9ms
+2020-03-31 12:03:57,909 INFO 76129 [egg-watcher:application] watcher start success
+2020-03-31 12:03:57,923 INFO 76129 [egg:core] dump config after ready, 9ms
+2020-03-31 12:52:42,147 WARN 76129 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-03-31 13:45:16,557 INFO 76839 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 13:45:16,624 INFO 76839 [egg-multipart] stream mode enable
+2020-03-31 13:45:16,770 INFO 76839 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 13:45:16,776 INFO 76839 [egg-security] use methodnoallow middleware
+2020-03-31 13:45:16,783 INFO 76839 [egg-security] use noopen middleware
+2020-03-31 13:45:16,784 INFO 76839 [egg-security] use nosniff middleware
+2020-03-31 13:45:16,785 INFO 76839 [egg-security] use xssProtection middleware
+2020-03-31 13:45:16,786 INFO 76839 [egg-security] use xframe middleware
+2020-03-31 13:45:16,787 INFO 76839 [egg-security] use dta middleware
+2020-03-31 13:45:16,787 INFO 76839 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 13:45:16,810 INFO 76839 [egg:core] dump config after load, 11ms
+2020-03-31 13:45:16,846 INFO 76839 [egg-watcher:application] watcher start success
+2020-03-31 13:45:16,862 INFO 76839 [egg:core] dump config after ready, 13ms
+2020-03-31 13:45:18,830 INFO 76842 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 13:45:19,207 INFO 76842 [egg-multipart] stream mode enable
+2020-03-31 13:45:19,398 INFO 76842 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 13:45:19,483 INFO 76842 [egg-security] use methodnoallow middleware
+2020-03-31 13:45:19,484 INFO 76842 [egg-security] use noopen middleware
+2020-03-31 13:45:19,486 INFO 76842 [egg-security] use nosniff middleware
+2020-03-31 13:45:19,486 INFO 76842 [egg-security] use xssProtection middleware
+2020-03-31 13:45:19,487 INFO 76842 [egg-security] use xframe middleware
+2020-03-31 13:45:19,490 INFO 76842 [egg-security] use dta middleware
+2020-03-31 13:45:19,490 INFO 76842 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 13:45:19,573 INFO 76842 [egg:core] dump config after load, 38ms
+2020-03-31 13:45:19,691 INFO 76842 [egg-watcher:application] watcher start success
+2020-03-31 13:45:19,707 INFO 76842 [egg:core] dump config after ready, 10ms
+2020-03-31 13:45:23,304 INFO 76846 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 13:45:23,386 INFO 76846 [egg-multipart] stream mode enable
+2020-03-31 13:45:23,513 INFO 76846 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 13:45:23,528 INFO 76846 [egg-security] use methodnoallow middleware
+2020-03-31 13:45:23,529 INFO 76846 [egg-security] use noopen middleware
+2020-03-31 13:45:23,540 INFO 76846 [egg-security] use nosniff middleware
+2020-03-31 13:45:23,541 INFO 76846 [egg-security] use xssProtection middleware
+2020-03-31 13:45:23,546 INFO 76846 [egg-security] use xframe middleware
+2020-03-31 13:45:23,547 INFO 76846 [egg-security] use dta middleware
+2020-03-31 13:45:23,547 INFO 76846 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 13:45:23,575 INFO 76846 [egg:core] dump config after load, 15ms
+2020-03-31 13:45:23,614 INFO 76846 [egg-watcher:application] watcher start success
+2020-03-31 13:45:23,628 INFO 76846 [egg:core] dump config after ready, 8ms
+2020-03-31 13:46:14,468 INFO 76862 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 13:46:14,510 INFO 76862 [egg-multipart] stream mode enable
+2020-03-31 13:46:14,588 INFO 76862 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 13:46:14,596 INFO 76862 [egg-security] use csrf middleware
+2020-03-31 13:46:14,597 INFO 76862 [egg-security] use methodnoallow middleware
+2020-03-31 13:46:14,598 INFO 76862 [egg-security] use noopen middleware
+2020-03-31 13:46:14,599 INFO 76862 [egg-security] use nosniff middleware
+2020-03-31 13:46:14,600 INFO 76862 [egg-security] use xssProtection middleware
+2020-03-31 13:46:14,600 INFO 76862 [egg-security] use xframe middleware
+2020-03-31 13:46:14,601 INFO 76862 [egg-security] use dta middleware
+2020-03-31 13:46:14,601 INFO 76862 [egg-security] compose 7 middlewares into one security middleware
+2020-03-31 13:46:14,616 INFO 76862 [egg:core] dump config after load, 7ms
+2020-03-31 13:46:14,638 INFO 76862 [egg-watcher:application] watcher start success
+2020-03-31 13:46:14,648 INFO 76862 [egg:core] dump config after ready, 6ms
+2020-03-31 13:47:03,800 INFO 76872 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 13:47:03,849 INFO 76872 [egg-multipart] stream mode enable
+2020-03-31 13:47:03,906 INFO 76872 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 13:47:03,913 INFO 76872 [egg-security] use methodnoallow middleware
+2020-03-31 13:47:03,914 INFO 76872 [egg-security] use noopen middleware
+2020-03-31 13:47:03,914 INFO 76872 [egg-security] use nosniff middleware
+2020-03-31 13:47:03,915 INFO 76872 [egg-security] use xssProtection middleware
+2020-03-31 13:47:03,915 INFO 76872 [egg-security] use xframe middleware
+2020-03-31 13:47:03,916 INFO 76872 [egg-security] use dta middleware
+2020-03-31 13:47:03,916 INFO 76872 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 13:47:03,931 INFO 76872 [egg:core] dump config after load, 7ms
+2020-03-31 13:47:03,954 INFO 76872 [egg-watcher:application] watcher start success
+2020-03-31 13:47:03,964 INFO 76872 [egg:core] dump config after ready, 7ms
+2020-03-31 13:47:06,642 INFO 76874 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 13:47:06,685 INFO 76874 [egg-multipart] stream mode enable
+2020-03-31 13:47:06,756 INFO 76874 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 13:47:06,764 INFO 76874 [egg-security] use methodnoallow middleware
+2020-03-31 13:47:06,765 INFO 76874 [egg-security] use noopen middleware
+2020-03-31 13:47:06,766 INFO 76874 [egg-security] use nosniff middleware
+2020-03-31 13:47:06,769 INFO 76874 [egg-security] use xssProtection middleware
+2020-03-31 13:47:06,769 INFO 76874 [egg-security] use xframe middleware
+2020-03-31 13:47:06,770 INFO 76874 [egg-security] use dta middleware
+2020-03-31 13:47:06,770 INFO 76874 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 13:47:06,787 INFO 76874 [egg:core] dump config after load, 9ms
+2020-03-31 13:47:06,819 INFO 76874 [egg-watcher:application] watcher start success
+2020-03-31 13:47:06,835 INFO 76874 [egg:core] dump config after ready, 10ms
+2020-03-31 13:47:22,311 INFO 76892 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 13:47:22,359 INFO 76892 [egg-multipart] stream mode enable
+2020-03-31 13:47:22,443 INFO 76892 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 13:47:22,446 INFO 76892 [egg-security] use methodnoallow middleware
+2020-03-31 13:47:22,447 INFO 76892 [egg-security] use noopen middleware
+2020-03-31 13:47:22,448 INFO 76892 [egg-security] use nosniff middleware
+2020-03-31 13:47:22,449 INFO 76892 [egg-security] use xssProtection middleware
+2020-03-31 13:47:22,450 INFO 76892 [egg-security] use xframe middleware
+2020-03-31 13:47:22,451 INFO 76892 [egg-security] use dta middleware
+2020-03-31 13:47:22,451 INFO 76892 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 13:47:22,467 INFO 76892 [egg:core] dump config after load, 8ms
+2020-03-31 13:47:22,494 INFO 76892 [egg-watcher:application] watcher start success
+2020-03-31 13:47:22,505 INFO 76892 [egg:core] dump config after ready, 7ms
+2020-03-31 13:48:40,958 INFO 76905 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 13:48:41,009 INFO 76905 [egg-multipart] stream mode enable
+2020-03-31 13:48:41,120 INFO 76905 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 13:48:41,128 INFO 76905 [egg-security] use methodnoallow middleware
+2020-03-31 13:48:41,129 INFO 76905 [egg-security] use noopen middleware
+2020-03-31 13:48:41,132 INFO 76905 [egg-security] use nosniff middleware
+2020-03-31 13:48:41,134 INFO 76905 [egg-security] use xssProtection middleware
+2020-03-31 13:48:41,134 INFO 76905 [egg-security] use xframe middleware
+2020-03-31 13:48:41,135 INFO 76905 [egg-security] use dta middleware
+2020-03-31 13:48:41,135 INFO 76905 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 13:48:41,154 INFO 76905 [egg:core] dump config after load, 9ms
+2020-03-31 13:48:41,173 INFO 76905 [egg-watcher:application] watcher start success
+2020-03-31 13:48:41,184 INFO 76905 [egg:core] dump config after ready, 7ms
+2020-03-31 13:52:03,050 INFO 76958 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 13:52:03,103 INFO 76958 [egg-multipart] stream mode enable
+2020-03-31 13:52:03,225 INFO 76958 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 13:52:03,229 INFO 76958 [egg-security] use methodnoallow middleware
+2020-03-31 13:52:03,230 INFO 76958 [egg-security] use noopen middleware
+2020-03-31 13:52:03,232 INFO 76958 [egg-security] use nosniff middleware
+2020-03-31 13:52:03,233 INFO 76958 [egg-security] use xssProtection middleware
+2020-03-31 13:52:03,234 INFO 76958 [egg-security] use xframe middleware
+2020-03-31 13:52:03,235 INFO 76958 [egg-security] use dta middleware
+2020-03-31 13:52:03,236 INFO 76958 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 13:52:03,255 INFO 76958 [egg:core] dump config after load, 10ms
+2020-03-31 13:52:03,278 INFO 76958 [egg-watcher:application] watcher start success
+2020-03-31 13:52:03,292 INFO 76958 [egg:core] dump config after ready, 9ms
+2020-03-31 13:53:00,144 INFO 76968 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 13:53:00,205 INFO 76968 [egg-multipart] stream mode enable
+2020-03-31 13:53:00,320 INFO 76968 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 13:53:00,324 INFO 76968 [egg-security] use methodnoallow middleware
+2020-03-31 13:53:00,325 INFO 76968 [egg-security] use noopen middleware
+2020-03-31 13:53:00,327 INFO 76968 [egg-security] use nosniff middleware
+2020-03-31 13:53:00,328 INFO 76968 [egg-security] use xssProtection middleware
+2020-03-31 13:53:00,329 INFO 76968 [egg-security] use xframe middleware
+2020-03-31 13:53:00,330 INFO 76968 [egg-security] use dta middleware
+2020-03-31 13:53:00,330 INFO 76968 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 13:53:00,352 INFO 76968 [egg:core] dump config after load, 13ms
+2020-03-31 13:53:00,374 INFO 76968 [egg-watcher:application] watcher start success
+2020-03-31 13:53:00,386 INFO 76968 [egg:core] dump config after ready, 8ms
+2020-03-31 13:57:17,352 INFO 77011 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 13:57:17,412 INFO 77011 [egg-multipart] stream mode enable
+2020-03-31 13:57:17,621 INFO 77011 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 13:57:17,634 INFO 77011 [egg-security] use methodnoallow middleware
+2020-03-31 13:57:17,651 INFO 77011 [egg-security] use noopen middleware
+2020-03-31 13:57:17,662 INFO 77011 [egg-security] use nosniff middleware
+2020-03-31 13:57:17,665 INFO 77011 [egg-security] use xssProtection middleware
+2020-03-31 13:57:17,667 INFO 77011 [egg-security] use xframe middleware
+2020-03-31 13:57:17,671 INFO 77011 [egg-security] use dta middleware
+2020-03-31 13:57:17,671 INFO 77011 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 13:57:17,715 INFO 77011 [egg:core] dump config after load, 26ms
+2020-03-31 13:57:17,767 INFO 77011 [egg-watcher:application] watcher start success
+2020-03-31 13:57:17,819 INFO 77011 [egg:core] dump config after ready, 37ms
+2020-03-31 14:05:01,346 INFO 77108 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 14:05:01,402 INFO 77108 [egg-multipart] stream mode enable
+2020-03-31 14:05:01,596 INFO 77108 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 14:05:01,606 INFO 77108 [egg-security] use methodnoallow middleware
+2020-03-31 14:05:01,607 INFO 77108 [egg-security] use noopen middleware
+2020-03-31 14:05:01,608 INFO 77108 [egg-security] use nosniff middleware
+2020-03-31 14:05:01,609 INFO 77108 [egg-security] use xssProtection middleware
+2020-03-31 14:05:01,610 INFO 77108 [egg-security] use xframe middleware
+2020-03-31 14:05:01,611 INFO 77108 [egg-security] use dta middleware
+2020-03-31 14:05:01,611 INFO 77108 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 14:05:01,633 INFO 77108 [egg:core] dump config after load, 11ms
+2020-03-31 14:05:01,658 INFO 77108 [egg-watcher:application] watcher start success
+2020-03-31 14:05:01,731 INFO 77108 [egg:core] dump config after ready, 65ms
+2020-03-31 14:09:40,817 INFO 77149 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 14:09:40,865 INFO 77149 [egg-multipart] stream mode enable
+2020-03-31 14:09:41,014 INFO 77149 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 14:09:41,023 INFO 77149 [egg-security] use methodnoallow middleware
+2020-03-31 14:09:41,024 INFO 77149 [egg-security] use noopen middleware
+2020-03-31 14:09:41,025 INFO 77149 [egg-security] use nosniff middleware
+2020-03-31 14:09:41,027 INFO 77149 [egg-security] use xssProtection middleware
+2020-03-31 14:09:41,030 INFO 77149 [egg-security] use xframe middleware
+2020-03-31 14:09:41,031 INFO 77149 [egg-security] use dta middleware
+2020-03-31 14:09:41,031 INFO 77149 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 14:09:41,056 INFO 77149 [egg:core] dump config after load, 12ms
+2020-03-31 14:09:41,088 INFO 77149 [egg-watcher:application] watcher start success
+2020-03-31 14:09:41,103 INFO 77149 [egg:core] dump config after ready, 9ms
+2020-03-31 14:09:50,147 INFO 77151 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 14:09:50,193 INFO 77151 [egg-multipart] stream mode enable
+2020-03-31 14:09:50,287 INFO 77151 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 14:09:50,292 INFO 77151 [egg-security] use methodnoallow middleware
+2020-03-31 14:09:50,293 INFO 77151 [egg-security] use noopen middleware
+2020-03-31 14:09:50,294 INFO 77151 [egg-security] use nosniff middleware
+2020-03-31 14:09:50,295 INFO 77151 [egg-security] use xssProtection middleware
+2020-03-31 14:09:50,296 INFO 77151 [egg-security] use xframe middleware
+2020-03-31 14:09:50,297 INFO 77151 [egg-security] use dta middleware
+2020-03-31 14:09:50,297 INFO 77151 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 14:09:50,314 INFO 77151 [egg:core] dump config after load, 8ms
+2020-03-31 14:09:50,334 INFO 77151 [egg-watcher:application] watcher start success
+2020-03-31 14:09:50,345 INFO 77151 [egg:core] dump config after ready, 8ms
+2020-03-31 14:10:43,928 INFO 77157 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 14:10:44,042 INFO 77157 [egg-multipart] stream mode enable
+2020-03-31 14:10:44,295 INFO 77157 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 14:10:44,304 INFO 77157 [egg-security] use methodnoallow middleware
+2020-03-31 14:10:44,305 INFO 77157 [egg-security] use noopen middleware
+2020-03-31 14:10:44,306 INFO 77157 [egg-security] use nosniff middleware
+2020-03-31 14:10:44,306 INFO 77157 [egg-security] use xssProtection middleware
+2020-03-31 14:10:44,307 INFO 77157 [egg-security] use xframe middleware
+2020-03-31 14:10:44,307 INFO 77157 [egg-security] use dta middleware
+2020-03-31 14:10:44,308 INFO 77157 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 14:10:44,329 INFO 77157 [egg:core] dump config after load, 11ms
+2020-03-31 14:10:44,356 INFO 77157 [egg-watcher:application] watcher start success
+2020-03-31 14:10:44,372 INFO 77157 [egg:core] dump config after ready, 10ms
+2020-03-31 14:11:02,736 INFO 77160 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 14:11:02,790 INFO 77160 [egg-multipart] stream mode enable
+2020-03-31 14:11:02,850 INFO 77160 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 14:11:02,853 INFO 77160 [egg-security] use methodnoallow middleware
+2020-03-31 14:11:02,856 INFO 77160 [egg-security] use noopen middleware
+2020-03-31 14:11:02,857 INFO 77160 [egg-security] use nosniff middleware
+2020-03-31 14:11:02,858 INFO 77160 [egg-security] use xssProtection middleware
+2020-03-31 14:11:02,858 INFO 77160 [egg-security] use xframe middleware
+2020-03-31 14:11:02,858 INFO 77160 [egg-security] use dta middleware
+2020-03-31 14:11:02,858 INFO 77160 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 14:11:02,872 INFO 77160 [egg:core] dump config after load, 7ms
+2020-03-31 14:11:02,894 INFO 77160 [egg-watcher:application] watcher start success
+2020-03-31 14:11:02,905 INFO 77160 [egg:core] dump config after ready, 7ms
+2020-03-31 14:11:36,184 INFO 77167 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 14:11:36,235 INFO 77167 [egg-multipart] stream mode enable
+2020-03-31 14:11:36,331 INFO 77167 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 14:11:36,337 INFO 77167 [egg-security] use methodnoallow middleware
+2020-03-31 14:11:36,339 INFO 77167 [egg-security] use noopen middleware
+2020-03-31 14:11:36,340 INFO 77167 [egg-security] use nosniff middleware
+2020-03-31 14:11:36,341 INFO 77167 [egg-security] use xssProtection middleware
+2020-03-31 14:11:36,342 INFO 77167 [egg-security] use xframe middleware
+2020-03-31 14:11:36,343 INFO 77167 [egg-security] use dta middleware
+2020-03-31 14:11:36,343 INFO 77167 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 14:11:36,363 INFO 77167 [egg:core] dump config after load, 9ms
+2020-03-31 14:11:36,390 INFO 77167 [egg-watcher:application] watcher start success
+2020-03-31 14:11:36,403 INFO 77167 [egg:core] dump config after ready, 9ms
+2020-03-31 14:12:04,499 INFO 77180 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 14:12:04,570 INFO 77180 [egg-multipart] stream mode enable
+2020-03-31 14:12:04,665 INFO 77180 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 14:12:04,686 INFO 77180 [egg-security] use methodnoallow middleware
+2020-03-31 14:12:04,687 INFO 77180 [egg-security] use noopen middleware
+2020-03-31 14:12:04,688 INFO 77180 [egg-security] use nosniff middleware
+2020-03-31 14:12:04,690 INFO 77180 [egg-security] use xssProtection middleware
+2020-03-31 14:12:04,691 INFO 77180 [egg-security] use xframe middleware
+2020-03-31 14:12:04,693 INFO 77180 [egg-security] use dta middleware
+2020-03-31 14:12:04,693 INFO 77180 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 14:12:04,732 INFO 77180 [egg:core] dump config after load, 18ms
+2020-03-31 14:12:04,761 INFO 77180 [egg-watcher:application] watcher start success
+2020-03-31 14:12:04,804 INFO 77180 [egg:core] dump config after ready, 38ms
+2020-03-31 14:12:10,550 INFO 77186 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 14:12:10,601 INFO 77186 [egg-multipart] stream mode enable
+2020-03-31 14:12:10,661 INFO 77186 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 14:12:10,678 INFO 77186 [egg-security] use methodnoallow middleware
+2020-03-31 14:12:10,678 INFO 77186 [egg-security] use noopen middleware
+2020-03-31 14:12:10,679 INFO 77186 [egg-security] use nosniff middleware
+2020-03-31 14:12:10,679 INFO 77186 [egg-security] use xssProtection middleware
+2020-03-31 14:12:10,680 INFO 77186 [egg-security] use xframe middleware
+2020-03-31 14:12:10,680 INFO 77186 [egg-security] use dta middleware
+2020-03-31 14:12:10,680 INFO 77186 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 14:12:10,694 INFO 77186 [egg:core] dump config after load, 7ms
+2020-03-31 14:12:10,712 INFO 77186 [egg-watcher:application] watcher start success
+2020-03-31 14:12:10,720 INFO 77186 [egg:core] dump config after ready, 5ms
+2020-03-31 14:12:15,620 INFO 77193 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 14:12:15,704 INFO 77193 [egg-multipart] stream mode enable
+2020-03-31 14:12:15,807 INFO 77193 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 14:12:15,813 INFO 77193 [egg-security] use methodnoallow middleware
+2020-03-31 14:12:15,814 INFO 77193 [egg-security] use noopen middleware
+2020-03-31 14:12:15,815 INFO 77193 [egg-security] use nosniff middleware
+2020-03-31 14:12:15,815 INFO 77193 [egg-security] use xssProtection middleware
+2020-03-31 14:12:15,816 INFO 77193 [egg-security] use xframe middleware
+2020-03-31 14:12:15,816 INFO 77193 [egg-security] use dta middleware
+2020-03-31 14:12:15,816 INFO 77193 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 14:12:15,838 INFO 77193 [egg:core] dump config after load, 12ms
+2020-03-31 14:12:15,865 INFO 77193 [egg-watcher:application] watcher start success
+2020-03-31 14:12:15,879 INFO 77193 [egg:core] dump config after ready, 9ms
+2020-03-31 14:12:18,149 INFO 77194 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 14:12:18,211 INFO 77194 [egg-multipart] stream mode enable
+2020-03-31 14:12:18,281 INFO 77194 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 14:12:18,288 INFO 77194 [egg-security] use methodnoallow middleware
+2020-03-31 14:12:18,289 INFO 77194 [egg-security] use noopen middleware
+2020-03-31 14:12:18,290 INFO 77194 [egg-security] use nosniff middleware
+2020-03-31 14:12:18,290 INFO 77194 [egg-security] use xssProtection middleware
+2020-03-31 14:12:18,291 INFO 77194 [egg-security] use xframe middleware
+2020-03-31 14:12:18,291 INFO 77194 [egg-security] use dta middleware
+2020-03-31 14:12:18,291 INFO 77194 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 14:12:18,308 INFO 77194 [egg:core] dump config after load, 9ms
+2020-03-31 14:12:18,330 INFO 77194 [egg-watcher:application] watcher start success
+2020-03-31 14:12:18,343 INFO 77194 [egg:core] dump config after ready, 8ms
+2020-03-31 14:12:31,417 INFO 77198 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 14:12:31,464 INFO 77198 [egg-multipart] stream mode enable
+2020-03-31 14:12:31,527 INFO 77198 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 14:12:31,530 INFO 77198 [egg-security] use methodnoallow middleware
+2020-03-31 14:12:31,531 INFO 77198 [egg-security] use noopen middleware
+2020-03-31 14:12:31,532 INFO 77198 [egg-security] use nosniff middleware
+2020-03-31 14:12:31,536 INFO 77198 [egg-security] use xssProtection middleware
+2020-03-31 14:12:31,537 INFO 77198 [egg-security] use xframe middleware
+2020-03-31 14:12:31,537 INFO 77198 [egg-security] use dta middleware
+2020-03-31 14:12:31,537 INFO 77198 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 14:12:31,551 INFO 77198 [egg:core] dump config after load, 7ms
+2020-03-31 14:12:31,569 INFO 77198 [egg-watcher:application] watcher start success
+2020-03-31 14:12:31,585 INFO 77198 [egg:core] dump config after ready, 11ms
+2020-03-31 14:13:25,710 INFO 77208 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 14:13:25,756 INFO 77208 [egg-multipart] stream mode enable
+2020-03-31 14:13:25,810 INFO 77208 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 14:13:25,817 INFO 77208 [egg-security] use methodnoallow middleware
+2020-03-31 14:13:25,818 INFO 77208 [egg-security] use noopen middleware
+2020-03-31 14:13:25,820 INFO 77208 [egg-security] use nosniff middleware
+2020-03-31 14:13:25,820 INFO 77208 [egg-security] use xssProtection middleware
+2020-03-31 14:13:25,821 INFO 77208 [egg-security] use xframe middleware
+2020-03-31 14:13:25,821 INFO 77208 [egg-security] use dta middleware
+2020-03-31 14:13:25,821 INFO 77208 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 14:13:25,834 INFO 77208 [egg:core] dump config after load, 7ms
+2020-03-31 14:13:25,854 INFO 77208 [egg-watcher:application] watcher start success
+2020-03-31 14:13:25,862 INFO 77208 [egg:core] dump config after ready, 5ms
+2020-03-31 14:13:41,708 INFO 77213 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 14:13:41,753 INFO 77213 [egg-multipart] stream mode enable
+2020-03-31 14:13:41,826 INFO 77213 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 14:13:41,829 INFO 77213 [egg-security] use methodnoallow middleware
+2020-03-31 14:13:41,830 INFO 77213 [egg-security] use noopen middleware
+2020-03-31 14:13:41,831 INFO 77213 [egg-security] use nosniff middleware
+2020-03-31 14:13:41,831 INFO 77213 [egg-security] use xssProtection middleware
+2020-03-31 14:13:41,832 INFO 77213 [egg-security] use xframe middleware
+2020-03-31 14:13:41,832 INFO 77213 [egg-security] use dta middleware
+2020-03-31 14:13:41,832 INFO 77213 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 14:13:41,846 INFO 77213 [egg:core] dump config after load, 7ms
+2020-03-31 14:13:41,873 INFO 77213 [egg-watcher:application] watcher start success
+2020-03-31 14:13:41,886 INFO 77213 [egg:core] dump config after ready, 8ms
+2020-03-31 14:13:59,689 INFO 77218 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 14:13:59,751 INFO 77218 [egg-multipart] stream mode enable
+2020-03-31 14:13:59,807 INFO 77218 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 14:13:59,814 INFO 77218 [egg-security] use methodnoallow middleware
+2020-03-31 14:13:59,815 INFO 77218 [egg-security] use noopen middleware
+2020-03-31 14:13:59,815 INFO 77218 [egg-security] use nosniff middleware
+2020-03-31 14:13:59,816 INFO 77218 [egg-security] use xssProtection middleware
+2020-03-31 14:13:59,816 INFO 77218 [egg-security] use xframe middleware
+2020-03-31 14:13:59,817 INFO 77218 [egg-security] use dta middleware
+2020-03-31 14:13:59,817 INFO 77218 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 14:13:59,832 INFO 77218 [egg:core] dump config after load, 8ms
+2020-03-31 14:13:59,857 INFO 77218 [egg-watcher:application] watcher start success
+2020-03-31 14:13:59,870 INFO 77218 [egg:core] dump config after ready, 9ms
+2020-03-31 14:17:34,939 INFO 77253 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 14:17:35,002 INFO 77253 [egg-multipart] stream mode enable
+2020-03-31 14:17:35,104 INFO 77253 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 14:17:35,111 INFO 77253 [egg-security] use methodnoallow middleware
+2020-03-31 14:17:35,112 INFO 77253 [egg-security] use noopen middleware
+2020-03-31 14:17:35,113 INFO 77253 [egg-security] use nosniff middleware
+2020-03-31 14:17:35,114 INFO 77253 [egg-security] use xssProtection middleware
+2020-03-31 14:17:35,115 INFO 77253 [egg-security] use xframe middleware
+2020-03-31 14:17:35,116 INFO 77253 [egg-security] use dta middleware
+2020-03-31 14:17:35,116 INFO 77253 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 14:17:35,136 INFO 77253 [egg:core] dump config after load, 11ms
+2020-03-31 14:17:35,158 INFO 77253 [egg-watcher:application] watcher start success
+2020-03-31 14:17:35,172 INFO 77253 [egg:core] dump config after ready, 10ms
+2020-03-31 14:28:10,290 INFO 77379 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 14:28:10,339 INFO 77379 [egg-multipart] stream mode enable
+2020-03-31 14:28:10,458 INFO 77379 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 14:28:10,461 INFO 77379 [egg-security] use methodnoallow middleware
+2020-03-31 14:28:10,462 INFO 77379 [egg-security] use noopen middleware
+2020-03-31 14:28:10,465 INFO 77379 [egg-security] use nosniff middleware
+2020-03-31 14:28:10,466 INFO 77379 [egg-security] use xssProtection middleware
+2020-03-31 14:28:10,468 INFO 77379 [egg-security] use xframe middleware
+2020-03-31 14:28:10,469 INFO 77379 [egg-security] use dta middleware
+2020-03-31 14:28:10,469 INFO 77379 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 14:28:10,494 INFO 77379 [egg:core] dump config after load, 12ms
+2020-03-31 14:28:10,529 INFO 77379 [egg-watcher:application] watcher start success
+2020-03-31 14:28:10,547 INFO 77379 [egg:core] dump config after ready, 9ms
+2020-03-31 14:28:14,835 INFO 77381 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 14:28:14,897 INFO 77381 [egg-multipart] stream mode enable
+2020-03-31 14:28:14,980 INFO 77381 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 14:28:14,985 INFO 77381 [egg-security] use methodnoallow middleware
+2020-03-31 14:28:14,986 INFO 77381 [egg-security] use noopen middleware
+2020-03-31 14:28:14,987 INFO 77381 [egg-security] use nosniff middleware
+2020-03-31 14:28:14,988 INFO 77381 [egg-security] use xssProtection middleware
+2020-03-31 14:28:14,989 INFO 77381 [egg-security] use xframe middleware
+2020-03-31 14:28:14,989 INFO 77381 [egg-security] use dta middleware
+2020-03-31 14:28:14,989 INFO 77381 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 14:28:15,012 INFO 77381 [egg:core] dump config after load, 10ms
+2020-03-31 14:28:15,035 INFO 77381 [egg-watcher:application] watcher start success
+2020-03-31 14:28:15,049 INFO 77381 [egg:core] dump config after ready, 9ms
+2020-03-31 14:31:39,745 INFO 77419 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 14:31:39,820 INFO 77419 [egg-multipart] stream mode enable
+2020-03-31 14:31:39,972 INFO 77419 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 14:31:39,980 INFO 77419 [egg-security] use methodnoallow middleware
+2020-03-31 14:31:39,982 INFO 77419 [egg-security] use noopen middleware
+2020-03-31 14:31:39,983 INFO 77419 [egg-security] use nosniff middleware
+2020-03-31 14:31:39,985 INFO 77419 [egg-security] use xssProtection middleware
+2020-03-31 14:31:39,986 INFO 77419 [egg-security] use xframe middleware
+2020-03-31 14:31:39,987 INFO 77419 [egg-security] use dta middleware
+2020-03-31 14:31:39,987 INFO 77419 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 14:31:40,009 INFO 77419 [egg:core] dump config after load, 11ms
+2020-03-31 14:31:40,033 INFO 77419 [egg-watcher:application] watcher start success
+2020-03-31 14:31:40,049 INFO 77419 [egg:core] dump config after ready, 11ms
+2020-03-31 14:31:41,840 INFO 77422 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 14:31:41,936 INFO 77422 [egg-multipart] stream mode enable
+2020-03-31 14:31:42,057 INFO 77422 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 14:31:42,063 INFO 77422 [egg-security] use methodnoallow middleware
+2020-03-31 14:31:42,064 INFO 77422 [egg-security] use noopen middleware
+2020-03-31 14:31:42,064 INFO 77422 [egg-security] use nosniff middleware
+2020-03-31 14:31:42,065 INFO 77422 [egg-security] use xssProtection middleware
+2020-03-31 14:31:42,069 INFO 77422 [egg-security] use xframe middleware
+2020-03-31 14:31:42,070 INFO 77422 [egg-security] use dta middleware
+2020-03-31 14:31:42,070 INFO 77422 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 14:31:42,120 INFO 77422 [egg:core] dump config after load, 42ms
+2020-03-31 14:31:42,163 INFO 77422 [egg-watcher:application] watcher start success
+2020-03-31 14:31:42,182 INFO 77422 [egg:core] dump config after ready, 14ms
+2020-03-31 14:33:15,855 INFO 77439 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 14:33:15,923 INFO 77439 [egg-multipart] stream mode enable
+2020-03-31 14:33:16,062 INFO 77439 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 14:33:16,066 INFO 77439 [egg-security] use methodnoallow middleware
+2020-03-31 14:33:16,067 INFO 77439 [egg-security] use noopen middleware
+2020-03-31 14:33:16,068 INFO 77439 [egg-security] use nosniff middleware
+2020-03-31 14:33:16,069 INFO 77439 [egg-security] use xssProtection middleware
+2020-03-31 14:33:16,071 INFO 77439 [egg-security] use xframe middleware
+2020-03-31 14:33:16,072 INFO 77439 [egg-security] use dta middleware
+2020-03-31 14:33:16,072 INFO 77439 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 14:33:16,090 INFO 77439 [egg:core] dump config after load, 10ms
+2020-03-31 14:33:16,119 INFO 77439 [egg-watcher:application] watcher start success
+2020-03-31 14:33:16,137 INFO 77439 [egg:core] dump config after ready, 10ms
+2020-03-31 14:33:21,369 INFO 77442 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 14:33:21,419 INFO 77442 [egg-multipart] stream mode enable
+2020-03-31 14:33:21,486 INFO 77442 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 14:33:21,489 INFO 77442 [egg-security] use methodnoallow middleware
+2020-03-31 14:33:21,489 INFO 77442 [egg-security] use noopen middleware
+2020-03-31 14:33:21,490 INFO 77442 [egg-security] use nosniff middleware
+2020-03-31 14:33:21,491 INFO 77442 [egg-security] use xssProtection middleware
+2020-03-31 14:33:21,491 INFO 77442 [egg-security] use xframe middleware
+2020-03-31 14:33:21,491 INFO 77442 [egg-security] use dta middleware
+2020-03-31 14:33:21,491 INFO 77442 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 14:33:21,506 INFO 77442 [egg:core] dump config after load, 9ms
+2020-03-31 14:33:21,526 INFO 77442 [egg-watcher:application] watcher start success
+2020-03-31 14:33:21,534 INFO 77442 [egg:core] dump config after ready, 5ms
+2020-03-31 14:52:01,343 INFO 77676 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 14:52:01,410 INFO 77676 [egg-multipart] stream mode enable
+2020-03-31 14:52:01,546 INFO 77676 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 14:52:01,551 INFO 77676 [egg-security] use methodnoallow middleware
+2020-03-31 14:52:01,553 INFO 77676 [egg-security] use noopen middleware
+2020-03-31 14:52:01,554 INFO 77676 [egg-security] use nosniff middleware
+2020-03-31 14:52:01,555 INFO 77676 [egg-security] use xssProtection middleware
+2020-03-31 14:52:01,556 INFO 77676 [egg-security] use xframe middleware
+2020-03-31 14:52:01,558 INFO 77676 [egg-security] use dta middleware
+2020-03-31 14:52:01,558 INFO 77676 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 14:52:01,584 INFO 77676 [egg:core] dump config after load, 12ms
+2020-03-31 14:52:01,629 INFO 77676 [egg-watcher:application] watcher start success
+2020-03-31 14:52:01,646 INFO 77676 [egg:core] dump config after ready, 7ms
+2020-03-31 14:53:24,495 INFO 77692 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 14:53:24,547 INFO 77692 [egg-multipart] stream mode enable
+2020-03-31 14:53:24,547 INFO 77692 [egg-mysql] connecting test_user@mysql.com:3306/test
+2020-03-31 14:53:24,782 INFO 77692 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 14:53:24,787 INFO 77692 [egg-security] use methodnoallow middleware
+2020-03-31 14:53:24,789 INFO 77692 [egg-security] use noopen middleware
+2020-03-31 14:53:24,790 INFO 77692 [egg-security] use nosniff middleware
+2020-03-31 14:53:24,791 INFO 77692 [egg-security] use xssProtection middleware
+2020-03-31 14:53:24,792 INFO 77692 [egg-security] use xframe middleware
+2020-03-31 14:53:24,793 INFO 77692 [egg-security] use dta middleware
+2020-03-31 14:53:24,793 INFO 77692 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 14:53:24,814 INFO 77692 [egg:core] dump config after load, 10ms
+2020-03-31 14:53:24,862 INFO 77692 [egg-watcher:application] watcher start success
+2020-03-31 14:53:34,867 INFO 77692 [egg:core] dump config after ready, 9ms
+2020-03-31 14:53:48,074 INFO 77705 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 14:53:48,154 INFO 77705 [egg-multipart] stream mode enable
+2020-03-31 14:53:48,155 INFO 77705 [egg-mysql] connecting user@localhost:3306/test
+2020-03-31 14:53:48,514 INFO 77705 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 14:53:48,522 INFO 77705 [egg-security] use methodnoallow middleware
+2020-03-31 14:53:48,523 INFO 77705 [egg-security] use noopen middleware
+2020-03-31 14:53:48,527 INFO 77705 [egg-security] use nosniff middleware
+2020-03-31 14:53:48,530 INFO 77705 [egg-security] use xssProtection middleware
+2020-03-31 14:53:48,532 INFO 77705 [egg-security] use xframe middleware
+2020-03-31 14:53:48,534 INFO 77705 [egg-security] use dta middleware
+2020-03-31 14:53:48,535 INFO 77705 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 14:53:48,573 INFO 77705 [egg:core] dump config after load, 20ms
+2020-03-31 14:53:48,709 INFO 77705 [egg:core] dump config after ready, 48ms
+2020-03-31 14:53:48,724 INFO 77705 [egg-watcher:application] watcher start success
+2020-03-31 17:15:29,432 INFO 84220 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 17:15:29,541 INFO 84220 [egg-multipart] stream mode enable
+2020-03-31 17:15:29,542 INFO 84220 [egg-mysql] connecting user@localhost:3306/test
+2020-03-31 17:15:29,896 INFO 84220 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 17:15:29,903 INFO 84220 [egg-security] use methodnoallow middleware
+2020-03-31 17:15:29,904 INFO 84220 [egg-security] use noopen middleware
+2020-03-31 17:15:29,906 INFO 84220 [egg-security] use nosniff middleware
+2020-03-31 17:15:29,909 INFO 84220 [egg-security] use xssProtection middleware
+2020-03-31 17:15:29,910 INFO 84220 [egg-security] use xframe middleware
+2020-03-31 17:15:29,911 INFO 84220 [egg-security] use dta middleware
+2020-03-31 17:15:29,911 INFO 84220 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 17:15:29,942 INFO 84220 [egg:core] dump config after load, 14ms
+2020-03-31 17:15:29,989 INFO 84220 [egg-watcher:application] watcher start success
+2020-03-31 17:15:30,111 INFO 84220 [egg:core] dump config after ready, 15ms
+2020-03-31 17:15:37,008 INFO 84228 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 17:15:37,087 INFO 84228 [egg-multipart] stream mode enable
+2020-03-31 17:15:37,088 INFO 84228 [egg-mysql] connecting root@localhost:3306/test
+2020-03-31 17:15:37,359 INFO 84228 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 17:15:37,364 INFO 84228 [egg-security] use methodnoallow middleware
+2020-03-31 17:15:37,365 INFO 84228 [egg-security] use noopen middleware
+2020-03-31 17:15:37,368 INFO 84228 [egg-security] use nosniff middleware
+2020-03-31 17:15:37,369 INFO 84228 [egg-security] use xssProtection middleware
+2020-03-31 17:15:37,370 INFO 84228 [egg-security] use xframe middleware
+2020-03-31 17:15:37,370 INFO 84228 [egg-security] use dta middleware
+2020-03-31 17:15:37,370 INFO 84228 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 17:15:37,400 INFO 84228 [egg:core] dump config after load, 16ms
+2020-03-31 17:15:37,459 INFO 84228 [egg-watcher:application] watcher start success
+2020-03-31 17:15:37,501 INFO 84228 [egg:core] dump config after ready, 12ms
+2020-03-31 18:15:43,074 INFO 85118 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 18:15:43,117 INFO 85118 [egg-multipart] stream mode enable
+2020-03-31 18:15:43,118 INFO 85118 [egg-mysql] connecting root@localhost:3306/test
+2020-03-31 18:15:43,377 INFO 85118 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 18:15:43,382 INFO 85118 [egg-security] use methodnoallow middleware
+2020-03-31 18:15:43,384 INFO 85118 [egg-security] use noopen middleware
+2020-03-31 18:15:43,386 INFO 85118 [egg-security] use nosniff middleware
+2020-03-31 18:15:43,387 INFO 85118 [egg-security] use xssProtection middleware
+2020-03-31 18:15:43,388 INFO 85118 [egg-security] use xframe middleware
+2020-03-31 18:15:43,390 INFO 85118 [egg-security] use dta middleware
+2020-03-31 18:15:43,390 INFO 85118 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 18:15:43,421 INFO 85118 [egg:core] dump config after load, 14ms
+2020-03-31 18:15:43,465 INFO 85118 [egg-watcher:application] watcher start success
+2020-03-31 18:15:43,477 INFO 85118 [egg-mysql] instance[0] status OK, rds currentTime: Tue Mar 31 2020 18:15:43 GMT+0800 (GMT+08:00)
+2020-03-31 18:15:43,492 INFO 85118 [egg:core] dump config after ready, 9ms
+2020-03-31 18:20:59,101 INFO 85196 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 18:20:59,248 INFO 85196 [egg-multipart] stream mode enable
+2020-03-31 18:20:59,251 INFO 85196 [egg-mysql] connecting root@localhost:3306/test
+2020-03-31 18:20:59,647 INFO 85196 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 18:20:59,656 INFO 85196 [egg-security] use methodnoallow middleware
+2020-03-31 18:20:59,657 INFO 85196 [egg-security] use noopen middleware
+2020-03-31 18:20:59,659 INFO 85196 [egg-security] use nosniff middleware
+2020-03-31 18:20:59,660 INFO 85196 [egg-security] use xssProtection middleware
+2020-03-31 18:20:59,661 INFO 85196 [egg-security] use xframe middleware
+2020-03-31 18:20:59,662 INFO 85196 [egg-security] use dta middleware
+2020-03-31 18:20:59,662 INFO 85196 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 18:20:59,690 INFO 85196 [egg:core] dump config after load, 16ms
+2020-03-31 18:20:59,726 INFO 85196 [egg-watcher:application] watcher start success
+2020-03-31 18:20:59,762 INFO 85196 [egg-mysql] instance[0] status OK, rds currentTime: Tue Mar 31 2020 18:20:59 GMT+0800 (GMT+08:00)
+2020-03-31 18:20:59,781 INFO 85196 [egg:core] dump config after ready, 14ms
+2020-03-31 18:22:04,259 INFO 85210 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 18:22:04,346 INFO 85210 [egg-multipart] stream mode enable
+2020-03-31 18:22:04,350 INFO 85210 [egg-mysql] connecting root@localhost:3306/test
+2020-03-31 18:22:04,636 INFO 85210 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 18:22:04,640 INFO 85210 [egg-security] use methodnoallow middleware
+2020-03-31 18:22:04,642 INFO 85210 [egg-security] use noopen middleware
+2020-03-31 18:22:04,643 INFO 85210 [egg-security] use nosniff middleware
+2020-03-31 18:22:04,644 INFO 85210 [egg-security] use xssProtection middleware
+2020-03-31 18:22:04,645 INFO 85210 [egg-security] use xframe middleware
+2020-03-31 18:22:04,650 INFO 85210 [egg-security] use dta middleware
+2020-03-31 18:22:04,650 INFO 85210 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 18:22:04,686 INFO 85210 [egg:core] dump config after load, 18ms
+2020-03-31 18:22:04,846 INFO 85210 [egg-watcher:application] watcher start success
+2020-03-31 18:22:04,903 INFO 85210 [egg-mysql] instance[0] status OK, rds currentTime: Tue Mar 31 2020 18:22:04 GMT+0800 (GMT+08:00)
+2020-03-31 18:22:04,920 INFO 85210 [egg:core] dump config after ready, 11ms
+2020-03-31 18:22:31,152 INFO 85214 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 18:22:31,192 INFO 85214 [egg-multipart] stream mode enable
+2020-03-31 18:22:31,193 INFO 85214 [egg-mysql] connecting root@localhost:3306/test
+2020-03-31 18:22:31,315 INFO 85214 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 18:22:31,321 INFO 85214 [egg-security] use methodnoallow middleware
+2020-03-31 18:22:31,323 INFO 85214 [egg-security] use noopen middleware
+2020-03-31 18:22:31,325 INFO 85214 [egg-security] use nosniff middleware
+2020-03-31 18:22:31,326 INFO 85214 [egg-security] use xssProtection middleware
+2020-03-31 18:22:31,327 INFO 85214 [egg-security] use xframe middleware
+2020-03-31 18:22:31,328 INFO 85214 [egg-security] use dta middleware
+2020-03-31 18:22:31,328 INFO 85214 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 18:22:31,345 INFO 85214 [egg:core] dump config after load, 7ms
+2020-03-31 18:22:31,386 INFO 85214 [egg-watcher:application] watcher start success
+2020-03-31 18:22:31,393 INFO 85214 [egg-mysql] instance[0] status OK, rds currentTime: Tue Mar 31 2020 18:22:31 GMT+0800 (GMT+08:00)
+2020-03-31 18:22:31,407 INFO 85214 [egg:core] dump config after ready, 9ms
+2020-03-31 18:22:35,902 INFO 85217 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 18:22:35,955 INFO 85217 [egg-multipart] stream mode enable
+2020-03-31 18:22:35,956 INFO 85217 [egg-mysql] connecting root@localhost:3306/test
+2020-03-31 18:22:36,090 INFO 85217 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 18:22:36,093 INFO 85217 [egg-security] use methodnoallow middleware
+2020-03-31 18:22:36,093 INFO 85217 [egg-security] use noopen middleware
+2020-03-31 18:22:36,094 INFO 85217 [egg-security] use nosniff middleware
+2020-03-31 18:22:36,094 INFO 85217 [egg-security] use xssProtection middleware
+2020-03-31 18:22:36,095 INFO 85217 [egg-security] use xframe middleware
+2020-03-31 18:22:36,095 INFO 85217 [egg-security] use dta middleware
+2020-03-31 18:22:36,095 INFO 85217 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 18:22:36,115 INFO 85217 [egg:core] dump config after load, 9ms
+2020-03-31 18:22:36,153 INFO 85217 [egg-watcher:application] watcher start success
+2020-03-31 18:22:36,164 INFO 85217 [egg-mysql] instance[0] status OK, rds currentTime: Tue Mar 31 2020 18:22:36 GMT+0800 (GMT+08:00)
+2020-03-31 18:22:36,179 INFO 85217 [egg:core] dump config after ready, 10ms
+2020-03-31 18:23:19,133 INFO 85225 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 18:23:19,177 INFO 85225 [egg-multipart] stream mode enable
+2020-03-31 18:23:19,177 INFO 85225 [egg-mysql] connecting root@localhost:3306/test
+2020-03-31 18:23:19,346 INFO 85225 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 18:23:19,350 INFO 85225 [egg-security] use methodnoallow middleware
+2020-03-31 18:23:19,351 INFO 85225 [egg-security] use noopen middleware
+2020-03-31 18:23:19,352 INFO 85225 [egg-security] use nosniff middleware
+2020-03-31 18:23:19,353 INFO 85225 [egg-security] use xssProtection middleware
+2020-03-31 18:23:19,353 INFO 85225 [egg-security] use xframe middleware
+2020-03-31 18:23:19,355 INFO 85225 [egg-security] use dta middleware
+2020-03-31 18:23:19,355 INFO 85225 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 18:23:19,370 INFO 85225 [egg:core] dump config after load, 8ms
+2020-03-31 18:23:19,413 INFO 85225 [egg-watcher:application] watcher start success
+2020-03-31 18:23:19,421 INFO 85225 [egg-mysql] instance[0] status OK, rds currentTime: Tue Mar 31 2020 18:23:19 GMT+0800 (GMT+08:00)
+2020-03-31 18:23:19,433 INFO 85225 [egg:core] dump config after ready, 8ms
+2020-03-31 18:24:36,893 INFO 85246 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 18:24:36,984 INFO 85246 [egg-multipart] stream mode enable
+2020-03-31 18:24:36,986 INFO 85246 [egg-mysql] connecting root@localhost:3306/test
+2020-03-31 18:24:37,412 INFO 85246 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 18:24:37,424 INFO 85246 [egg-security] use methodnoallow middleware
+2020-03-31 18:24:37,426 INFO 85246 [egg-security] use noopen middleware
+2020-03-31 18:24:37,430 INFO 85246 [egg-security] use nosniff middleware
+2020-03-31 18:24:37,431 INFO 85246 [egg-security] use xssProtection middleware
+2020-03-31 18:24:37,434 INFO 85246 [egg-security] use xframe middleware
+2020-03-31 18:24:37,437 INFO 85246 [egg-security] use dta middleware
+2020-03-31 18:24:37,437 INFO 85246 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 18:24:37,487 INFO 85246 [egg:core] dump config after load, 28ms
+2020-03-31 18:24:37,573 INFO 85246 [egg-watcher:application] watcher start success
+2020-03-31 18:24:37,597 INFO 85246 [egg-mysql] instance[0] status OK, rds currentTime: Tue Mar 31 2020 18:24:37 GMT+0800 (GMT+08:00)
+2020-03-31 18:24:37,619 INFO 85246 [egg:core] dump config after ready, 11ms
+2020-03-31 18:25:20,354 INFO 85268 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 18:25:20,395 INFO 85268 [egg-multipart] stream mode enable
+2020-03-31 18:25:20,396 INFO 85268 [egg-mysql] connecting root@localhost:3306/test
+2020-03-31 18:25:20,558 INFO 85268 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 18:25:20,561 INFO 85268 [egg-security] use methodnoallow middleware
+2020-03-31 18:25:20,562 INFO 85268 [egg-security] use noopen middleware
+2020-03-31 18:25:20,564 INFO 85268 [egg-security] use nosniff middleware
+2020-03-31 18:25:20,565 INFO 85268 [egg-security] use xssProtection middleware
+2020-03-31 18:25:20,566 INFO 85268 [egg-security] use xframe middleware
+2020-03-31 18:25:20,566 INFO 85268 [egg-security] use dta middleware
+2020-03-31 18:25:20,566 INFO 85268 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 18:25:20,582 INFO 85268 [egg:core] dump config after load, 8ms
+2020-03-31 18:25:20,627 INFO 85268 [egg-watcher:application] watcher start success
+2020-03-31 18:25:20,631 INFO 85268 [egg-mysql] instance[0] status OK, rds currentTime: Tue Mar 31 2020 18:25:20 GMT+0800 (GMT+08:00)
+2020-03-31 18:25:20,644 INFO 85268 [egg:core] dump config after ready, 9ms
+2020-03-31 18:25:56,425 INFO 85279 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 18:25:56,548 INFO 85279 [egg-multipart] stream mode enable
+2020-03-31 18:25:56,551 INFO 85279 [egg-mysql] connecting root@localhost:3306/test
+2020-03-31 18:25:56,837 INFO 85279 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 18:25:56,841 INFO 85279 [egg-security] use methodnoallow middleware
+2020-03-31 18:25:56,842 INFO 85279 [egg-security] use noopen middleware
+2020-03-31 18:25:56,843 INFO 85279 [egg-security] use nosniff middleware
+2020-03-31 18:25:56,845 INFO 85279 [egg-security] use xssProtection middleware
+2020-03-31 18:25:56,847 INFO 85279 [egg-security] use xframe middleware
+2020-03-31 18:25:56,848 INFO 85279 [egg-security] use dta middleware
+2020-03-31 18:25:56,848 INFO 85279 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 18:25:56,871 INFO 85279 [egg:core] dump config after load, 12ms
+2020-03-31 18:25:56,922 INFO 85279 [egg-watcher:application] watcher start success
+2020-03-31 18:25:56,927 INFO 85279 [egg-mysql] instance[0] status OK, rds currentTime: Tue Mar 31 2020 18:25:56 GMT+0800 (GMT+08:00)
+2020-03-31 18:25:56,942 INFO 85279 [egg:core] dump config after ready, 9ms
+2020-03-31 18:26:25,293 INFO 85285 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 18:26:25,336 INFO 85285 [egg-multipart] stream mode enable
+2020-03-31 18:26:25,337 INFO 85285 [egg-mysql] connecting root@localhost:3306/test
+2020-03-31 18:26:25,450 INFO 85285 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 18:26:25,453 INFO 85285 [egg-security] use methodnoallow middleware
+2020-03-31 18:26:25,453 INFO 85285 [egg-security] use noopen middleware
+2020-03-31 18:26:25,454 INFO 85285 [egg-security] use nosniff middleware
+2020-03-31 18:26:25,455 INFO 85285 [egg-security] use xssProtection middleware
+2020-03-31 18:26:25,455 INFO 85285 [egg-security] use xframe middleware
+2020-03-31 18:26:25,455 INFO 85285 [egg-security] use dta middleware
+2020-03-31 18:26:25,456 INFO 85285 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 18:26:25,469 INFO 85285 [egg:core] dump config after load, 7ms
+2020-03-31 18:26:25,513 INFO 85285 [egg-watcher:application] watcher start success
+2020-03-31 18:26:25,522 INFO 85285 [egg-mysql] instance[0] status OK, rds currentTime: Tue Mar 31 2020 18:26:25 GMT+0800 (GMT+08:00)
+2020-03-31 18:26:25,537 INFO 85285 [egg:core] dump config after ready, 10ms
+2020-03-31 18:26:35,694 INFO 85292 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 18:26:35,740 INFO 85292 [egg-multipart] stream mode enable
+2020-03-31 18:26:35,741 INFO 85292 [egg-mysql] connecting root@localhost:3306/test
+2020-03-31 18:26:35,915 INFO 85292 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 18:26:35,918 INFO 85292 [egg-security] use methodnoallow middleware
+2020-03-31 18:26:35,921 INFO 85292 [egg-security] use noopen middleware
+2020-03-31 18:26:35,922 INFO 85292 [egg-security] use nosniff middleware
+2020-03-31 18:26:35,923 INFO 85292 [egg-security] use xssProtection middleware
+2020-03-31 18:26:35,924 INFO 85292 [egg-security] use xframe middleware
+2020-03-31 18:26:35,924 INFO 85292 [egg-security] use dta middleware
+2020-03-31 18:26:35,924 INFO 85292 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 18:26:35,942 INFO 85292 [egg:core] dump config after load, 8ms
+2020-03-31 18:26:35,980 INFO 85292 [egg-watcher:application] watcher start success
+2020-03-31 18:26:35,989 INFO 85292 [egg-mysql] instance[0] status OK, rds currentTime: Tue Mar 31 2020 18:26:35 GMT+0800 (GMT+08:00)
+2020-03-31 18:26:36,003 INFO 85292 [egg:core] dump config after ready, 9ms
+2020-03-31 18:26:37,671 INFO 85293 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 18:26:37,729 INFO 85293 [egg-multipart] stream mode enable
+2020-03-31 18:26:37,730 INFO 85293 [egg-mysql] connecting root@localhost:3306/test
+2020-03-31 18:26:37,886 INFO 85293 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 18:26:37,890 INFO 85293 [egg-security] use methodnoallow middleware
+2020-03-31 18:26:37,891 INFO 85293 [egg-security] use noopen middleware
+2020-03-31 18:26:37,893 INFO 85293 [egg-security] use nosniff middleware
+2020-03-31 18:26:37,893 INFO 85293 [egg-security] use xssProtection middleware
+2020-03-31 18:26:37,894 INFO 85293 [egg-security] use xframe middleware
+2020-03-31 18:26:37,895 INFO 85293 [egg-security] use dta middleware
+2020-03-31 18:26:37,895 INFO 85293 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 18:26:37,919 INFO 85293 [egg:core] dump config after load, 15ms
+2020-03-31 18:26:37,965 INFO 85293 [egg-watcher:application] watcher start success
+2020-03-31 18:26:37,972 INFO 85293 [egg-mysql] instance[0] status OK, rds currentTime: Tue Mar 31 2020 18:26:37 GMT+0800 (GMT+08:00)
+2020-03-31 18:26:37,985 INFO 85293 [egg:core] dump config after ready, 9ms
+2020-03-31 18:26:50,321 INFO 85299 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 18:26:50,367 INFO 85299 [egg-multipart] stream mode enable
+2020-03-31 18:26:50,369 INFO 85299 [egg-mysql] connecting root@localhost:3306/test
+2020-03-31 18:26:50,618 INFO 85299 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 18:26:50,623 INFO 85299 [egg-security] use methodnoallow middleware
+2020-03-31 18:26:50,624 INFO 85299 [egg-security] use noopen middleware
+2020-03-31 18:26:50,625 INFO 85299 [egg-security] use nosniff middleware
+2020-03-31 18:26:50,626 INFO 85299 [egg-security] use xssProtection middleware
+2020-03-31 18:26:50,627 INFO 85299 [egg-security] use xframe middleware
+2020-03-31 18:26:50,630 INFO 85299 [egg-security] use dta middleware
+2020-03-31 18:26:50,630 INFO 85299 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 18:26:50,678 INFO 85299 [egg:core] dump config after load, 23ms
+2020-03-31 18:26:50,814 INFO 85299 [egg-watcher:application] watcher start success
+2020-03-31 18:26:50,848 INFO 85299 [egg-mysql] instance[0] status OK, rds currentTime: Tue Mar 31 2020 18:26:50 GMT+0800 (GMT+08:00)
+2020-03-31 18:26:50,894 INFO 85299 [egg:core] dump config after ready, 31ms
+2020-03-31 18:28:57,584 INFO 85334 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 18:28:57,634 INFO 85334 [egg-multipart] stream mode enable
+2020-03-31 18:28:57,635 INFO 85334 [egg-mysql] connecting root@localhost:3306/test
+2020-03-31 18:28:57,850 INFO 85334 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 18:28:57,854 INFO 85334 [egg-security] use methodnoallow middleware
+2020-03-31 18:28:57,855 INFO 85334 [egg-security] use noopen middleware
+2020-03-31 18:28:57,856 INFO 85334 [egg-security] use nosniff middleware
+2020-03-31 18:28:57,857 INFO 85334 [egg-security] use xssProtection middleware
+2020-03-31 18:28:57,857 INFO 85334 [egg-security] use xframe middleware
+2020-03-31 18:28:57,858 INFO 85334 [egg-security] use dta middleware
+2020-03-31 18:28:57,858 INFO 85334 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 18:28:57,878 INFO 85334 [egg:core] dump config after load, 9ms
+2020-03-31 18:28:57,920 INFO 85334 [egg-watcher:application] watcher start success
+2020-03-31 18:28:57,930 INFO 85334 [egg-mysql] instance[0] status OK, rds currentTime: Tue Mar 31 2020 18:28:57 GMT+0800 (GMT+08:00)
+2020-03-31 18:28:57,943 INFO 85334 [egg:core] dump config after ready, 8ms
+2020-03-31 18:29:19,471 INFO 85337 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 18:29:19,515 INFO 85337 [egg-multipart] stream mode enable
+2020-03-31 18:29:19,516 INFO 85337 [egg-mysql] connecting root@localhost:3306/test
+2020-03-31 18:29:19,633 INFO 85337 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 18:29:19,637 INFO 85337 [egg-security] use methodnoallow middleware
+2020-03-31 18:29:19,637 INFO 85337 [egg-security] use noopen middleware
+2020-03-31 18:29:19,638 INFO 85337 [egg-security] use nosniff middleware
+2020-03-31 18:29:19,638 INFO 85337 [egg-security] use xssProtection middleware
+2020-03-31 18:29:19,639 INFO 85337 [egg-security] use xframe middleware
+2020-03-31 18:29:19,639 INFO 85337 [egg-security] use dta middleware
+2020-03-31 18:29:19,639 INFO 85337 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 18:29:19,656 INFO 85337 [egg:core] dump config after load, 10ms
+2020-03-31 18:29:19,693 INFO 85337 [egg-watcher:application] watcher start success
+2020-03-31 18:29:19,696 INFO 85337 [egg-mysql] instance[0] status OK, rds currentTime: Tue Mar 31 2020 18:29:19 GMT+0800 (GMT+08:00)
+2020-03-31 18:29:19,708 INFO 85337 [egg:core] dump config after ready, 8ms
+2020-03-31 18:29:49,424 INFO 85342 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 18:29:49,495 INFO 85342 [egg-multipart] stream mode enable
+2020-03-31 18:29:49,499 INFO 85342 [egg-mysql] connecting root@localhost:3306/test
+2020-03-31 18:29:50,008 INFO 85342 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 18:29:50,012 INFO 85342 [egg-security] use methodnoallow middleware
+2020-03-31 18:29:50,013 INFO 85342 [egg-security] use noopen middleware
+2020-03-31 18:29:50,016 INFO 85342 [egg-security] use nosniff middleware
+2020-03-31 18:29:50,017 INFO 85342 [egg-security] use xssProtection middleware
+2020-03-31 18:29:50,018 INFO 85342 [egg-security] use xframe middleware
+2020-03-31 18:29:50,018 INFO 85342 [egg-security] use dta middleware
+2020-03-31 18:29:50,018 INFO 85342 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 18:29:50,039 INFO 85342 [egg:core] dump config after load, 11ms
+2020-03-31 18:29:50,079 INFO 85342 [egg-watcher:application] watcher start success
+2020-03-31 18:29:50,087 INFO 85342 [egg-mysql] instance[0] status OK, rds currentTime: Tue Mar 31 2020 18:29:50 GMT+0800 (GMT+08:00)
+2020-03-31 18:29:50,101 INFO 85342 [egg:core] dump config after ready, 9ms
+2020-03-31 18:29:52,185 INFO 85343 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 18:29:52,224 INFO 85343 [egg-multipart] stream mode enable
+2020-03-31 18:29:52,225 INFO 85343 [egg-mysql] connecting root@localhost:3306/test
+2020-03-31 18:29:52,334 INFO 85343 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 18:29:52,338 INFO 85343 [egg-security] use methodnoallow middleware
+2020-03-31 18:29:52,339 INFO 85343 [egg-security] use noopen middleware
+2020-03-31 18:29:52,339 INFO 85343 [egg-security] use nosniff middleware
+2020-03-31 18:29:52,340 INFO 85343 [egg-security] use xssProtection middleware
+2020-03-31 18:29:52,340 INFO 85343 [egg-security] use xframe middleware
+2020-03-31 18:29:52,341 INFO 85343 [egg-security] use dta middleware
+2020-03-31 18:29:52,341 INFO 85343 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 18:29:52,358 INFO 85343 [egg:core] dump config after load, 9ms
+2020-03-31 18:29:52,384 INFO 85343 [egg-watcher:application] watcher start success
+2020-03-31 18:29:52,399 INFO 85343 [egg-mysql] instance[0] status OK, rds currentTime: Tue Mar 31 2020 18:29:52 GMT+0800 (GMT+08:00)
+2020-03-31 18:29:52,413 INFO 85343 [egg:core] dump config after ready, 9ms
+2020-03-31 18:31:57,407 INFO 85374 [egg:logger] init all loggers with options: {"dir":"/Users/tehe/egg-tehe/logs/tehe","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"tehe-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-03-31 18:31:57,668 INFO 85374 [egg-multipart] stream mode enable
+2020-03-31 18:31:57,669 INFO 85374 [egg-mysql] connecting root@localhost:3306/test
+2020-03-31 18:31:57,883 INFO 85374 [egg-static] starting static serve /public/ -> /Users/tehe/egg-tehe/app/public
+2020-03-31 18:31:57,887 INFO 85374 [egg-security] use methodnoallow middleware
+2020-03-31 18:31:57,888 INFO 85374 [egg-security] use noopen middleware
+2020-03-31 18:31:57,889 INFO 85374 [egg-security] use nosniff middleware
+2020-03-31 18:31:57,890 INFO 85374 [egg-security] use xssProtection middleware
+2020-03-31 18:31:57,891 INFO 85374 [egg-security] use xframe middleware
+2020-03-31 18:31:57,892 INFO 85374 [egg-security] use dta middleware
+2020-03-31 18:31:57,892 INFO 85374 [egg-security] compose 6 middlewares into one security middleware
+2020-03-31 18:31:57,909 INFO 85374 [egg:core] dump config after load, 8ms
+2020-03-31 18:31:57,948 INFO 85374 [egg-watcher:application] watcher start success
+2020-03-31 18:31:57,958 INFO 85374 [egg-mysql] instance[0] status OK, rds currentTime: Tue Mar 31 2020 18:31:57 GMT+0800 (GMT+08:00)
+2020-03-31 18:31:57,970 INFO 85374 [egg:core] dump config after ready, 7ms
+2020-03-31 20:59:16,010 WARN 85374 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-03-31 20:59:16,193 WARN 85374 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-01 02:04:48,321 INFO 85374 [egg-logrotator] clean all log before 31 days
+2020-04-01 02:04:48,497 INFO 85374 [egg-logrotator] broadcast log-reload
+2020-04-01 02:04:48,499 INFO 85374 [egg-logrotator] rotate files success by DayRotator, files ["/Users/tehe/egg-tehe/logs/tehe/common-error.log -> /Users/tehe/egg-tehe/logs/tehe/common-error.log.2020-03-31","/Users/tehe/egg-tehe/logs/tehe/tehe-web.log -> /Users/tehe/egg-tehe/logs/tehe/tehe-web.log.2020-03-31","/Users/tehe/egg-tehe/logs/tehe/egg-web.log -> /Users/tehe/egg-tehe/logs/tehe/egg-web.log.2020-03-31","/Users/tehe/egg-tehe/logs/tehe/egg-schedule.log -> /Users/tehe/egg-tehe/logs/tehe/egg-schedule.log.2020-03-31","/Users/tehe/egg-tehe/logs/tehe/egg-agent.log -> /Users/tehe/egg-tehe/logs/tehe/egg-agent.log.2020-03-31"]

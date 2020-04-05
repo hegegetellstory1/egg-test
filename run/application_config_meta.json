@@ -1,0 +1,313 @@
+{
+  "security": {
+    "csrf": {
+      "enable": "/Users/tehe/egg-tehe/config/config.default.js",
+      "type": "/Users/tehe/egg-tehe/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/tehe/egg-tehe/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/tehe/egg-tehe/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/tehe/egg-tehe/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/tehe/egg-tehe/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/tehe/egg-tehe/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/tehe/egg-tehe/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/tehe/egg-tehe/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/tehe/egg-tehe/node_modules/egg-security/config/config.default.js"
+    },
+    "domainWhiteList": "/Users/tehe/egg-tehe/config/config.default.js",
+    "protocolWhiteList": "/Users/tehe/egg-tehe/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/tehe/egg-tehe/node_modules/egg-security/config/config.default.js",
+    "xframe": {
+      "enable": "/Users/tehe/egg-tehe/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/tehe/egg-tehe/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/tehe/egg-tehe/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/tehe/egg-tehe/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/tehe/egg-tehe/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/tehe/egg-tehe/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/tehe/egg-tehe/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/tehe/egg-tehe/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/tehe/egg-tehe/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/tehe/egg-tehe/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/tehe/egg-tehe/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/tehe/egg-tehe/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/tehe/egg-tehe/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/tehe/egg-tehe/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/tehe/egg-tehe/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/tehe/egg-tehe/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/tehe/egg-tehe/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "cors": {
+    "allowMethods": "/Users/tehe/egg-tehe/config/config.default.js"
+  },
+  "keys": "/Users/tehe/egg-tehe/config/config.default.js",
+  "middleware": "/Users/tehe/egg-tehe/config/config.default.js",
+  "mysql": {
+    "client": {
+      "host": "/Users/tehe/egg-tehe/config/config.default.js",
+      "port": "/Users/tehe/egg-tehe/config/config.default.js",
+      "user": "/Users/tehe/egg-tehe/config/config.default.js",
+      "password": "/Users/tehe/egg-tehe/config/config.default.js",
+      "database": "/Users/tehe/egg-tehe/config/config.default.js"
+    },
+    "app": "/Users/tehe/egg-tehe/config/config.default.js",
+    "agent": "/Users/tehe/egg-tehe/config/config.default.js",
+    "default": {
+      "database": "/Users/tehe/egg-tehe/node_modules/egg-mysql/config/config.default.js",
+      "connectionLimit": "/Users/tehe/egg-tehe/node_modules/egg-mysql/config/config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "/Users/tehe/egg-tehe/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/tehe/egg-tehe/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/tehe/egg-tehe/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/tehe/egg-tehe/node_modules/egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/Users/tehe/egg-tehe/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/tehe/egg-tehe/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/tehe/egg-tehe/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/tehe/egg-tehe/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/tehe/egg-tehe/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/tehe/egg-tehe/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/tehe/egg-tehe/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/tehe/egg-tehe/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/tehe/egg-tehe/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/tehe/egg-tehe/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/tehe/egg-tehe/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/tehe/egg-tehe/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/tehe/egg-tehe/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/tehe/egg-tehe/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/tehe/egg-tehe/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/tehe/egg-tehe/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/tehe/egg-tehe/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/tehe/egg-tehe/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/tehe/egg-tehe/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/tehe/egg-tehe/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/tehe/egg-tehe/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/tehe/egg-tehe/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/tehe/egg-tehe/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/tehe/egg-tehe/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/tehe/egg-tehe/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/tehe/egg-tehe/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/tehe/egg-tehe/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/tehe/egg-tehe/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/tehe/egg-tehe/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/tehe/egg-tehe/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/tehe/egg-tehe/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/tehe/egg-tehe/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/tehe/egg-tehe/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/tehe/egg-tehe/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/tehe/egg-tehe/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/tehe/egg-tehe/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/tehe/egg-tehe/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/tehe/egg-tehe/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/tehe/egg-tehe/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/tehe/egg-tehe/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/tehe/egg-tehe/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/tehe/egg-tehe/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/tehe/egg-tehe/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/tehe/egg-tehe/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/tehe/egg-tehe/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/tehe/egg-tehe/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/tehe/egg-tehe/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/tehe/egg-tehe/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/tehe/egg-tehe/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/tehe/egg-tehe/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/tehe/egg-tehe/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/tehe/egg-tehe/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/tehe/egg-tehe/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/tehe/egg-tehe/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+  "name": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+    "version": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+    "description": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+    "private": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+    "egg": {
+      "declarations": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "egg": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+      "egg-cors": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+      "egg-mysql": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+      "stop": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+      "dev": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+      "debug": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+      "test": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+      "cov": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+      "lint": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+      "ci": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+      "autod": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+      "url": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+    "license": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+    "strict": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+      "depth": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+    "env": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+    "level": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/tehe/egg-tehe/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+    "logging": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+      "port": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/tehe/egg-tehe/node_modules/egg/config/config.default.js"
+}

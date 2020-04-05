@@ -1,0 +1,6 @@
+2020-04-03 12:56:02,589 INFO 85265 [Timer] /Users/tehe/egg-tehe/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 39837582ms at 2020-04-04 00:00:00.171
+2020-04-03 12:56:02,946 INFO 85374 [Job#15858897623403981005615975313] /Users/tehe/egg-tehe/node_modules/egg-logrotator/app/schedule/clean_log.js executing by app
+2020-04-03 12:56:03,275 INFO 85374 [Job#15858897623403981005615975313] /Users/tehe/egg-tehe/node_modules/egg-logrotator/app/schedule/clean_log.js execute succeed, used 261ms
+2020-04-03 12:56:03,366 INFO 85374 [Job#15858897632823981014919990613] /Users/tehe/egg-tehe/node_modules/egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2020-04-03 12:56:03,423 INFO 85374 [Job#15858897632823981014919990613] /Users/tehe/egg-tehe/node_modules/egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 54ms
+2020-04-03 12:56:03,350 INFO 85265 [Timer] /Users/tehe/egg-tehe/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 39837711ms at 2020-04-04 00:00:01.061
